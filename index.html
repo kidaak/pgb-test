@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+    <script src="js/vendor/angular.min.js"></script>
+    <script src="js/vendor/underscore-min.js"></script>
+    <script src="js/main.js"></script>
+</head>
+<body>
+    <div ng-controller="AppController">
+    	Country: <select ng-model="selectedCountry" ng-options="value for value in countries"></select>
+    	Topic: <select ng-model="selectedTopic" ng-options="value for value in topics"></select>
+    	Language: <select ng-model="selectedLanguage" ng-options="value for value in languages"></select><br>
+    	Result:
+        <div><ng-include src="contentPath"></ng-include></div>
+    </div>
+</body>
+</html>
