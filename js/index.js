@@ -61,5 +61,12 @@ var app = {
             $('.log').text('Cleared');
             localStorage.clear();
         });
+
+        var info = 'Device Model: '    + device.model    + '<br />' +
+                    'Device Cordova: '  + device.cordova  + '<br />' +
+                    'Device Platform: ' + device.platform + '<br />' +
+                    'Device UUID: '     + device.uuid     + '<br />' +
+                    'Device Version: '  + device.version  + '<br />';
+        $('#device-info').html(info);
     }
 };
