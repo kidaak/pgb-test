@@ -1,17 +1,41 @@
 'use strict';
 
-function AppController($scope) {
-	$scope.countries = _.range(1, 28);
-	$scope.topics = _.range(1, 10);
-	$scope.languages = _.range(1, 28);
+var translations = {
+	welcome_msg: 'Hello world!'
+}
 
-	$scope.selectedCountry = 1;
-	$scope.selectedTopic = 1;
-	$scope.selectedLanguage = 1;
-	
-	$scope.contentPath = null;
+$(function() {
+	return;
+	localStorage.setItem('lastUpdate', new Date());
 
-	$scope.$watch('selectedCountry + selectedTopic + selectedLanguage', function() {
-		$scope.contentPath = 'data/country_'+ $scope.selectedCountry +'/topic_' + $scope.selectedTopic + '/lang_' + $scope.selectedLanguage + '.html';
+	$('#container').hide();
+	if (localStorage.getItem('pages/page1.html')) {
+		$('#container').html(localStorage.getItem('pages/page1.html'));
+		translate();
+		$('#container').fadeIn(1000);
+	} else {
+		$('#container').load('pages/page1.html', function(data) {
+		localStorage.setItem('pages/page1.html', data)
+		//$('#container').show();
+		translate();
+		$('#container').fadeIn(1000);
 	});
-} 
+	}
+
+	$('#container').on('click', 'a', function() {
+		var url = $(this).attr('href');
+		$('#container').fadeOut(200, function() {
+			$(this).load(url, function() {
+				$(this).fadeIn(200);
+			})
+		});
+		return false;
+	});
+});
+
+function translate() {
+	$('.i18n').each(function() {
+		// if ($(this).attr('data-i18n')) {}
+		$(this).text(translations[$(this).text()]);
+	});
+}
