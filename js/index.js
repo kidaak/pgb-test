@@ -54,7 +54,8 @@ var app = {
         if (localStorage.getItem('storedData')) {
             $('.log').text(localStorage.getItem('storedData'));
         } else {
-            $('.log').text(localStorage.setItem('storedData', 'Hello'));
+            $('.log').text('Storing "Hello"')
+            localStorage.setItem('storedData', 'Hello');
         }
 
         $('#clear-btn').on('click', function() {
@@ -62,11 +63,25 @@ var app = {
             localStorage.clear();
         });
 
+        /*
         var info = 'Device Model: '    + device.model    + '<br />' +
                     'Device Cordova: '  + device.cordova  + '<br />' +
                     'Device Platform: ' + device.platform + '<br />' +
                     'Device UUID: '     + device.uuid     + '<br />' +
                     'Device Version: '  + device.version  + '<br />';
         $('#device-info').html(info);
+        */
+
+        var stage = new createjs.Stage('demoCanvas');
+        createjs.Touch.enable(stage);
+        var circle = new createjs.Shape();
+        circle.graphics.beginFill('red').drawCircle(0, 0, 50);
+        stage.addChild(circle);
+        stage.update();
+        circle.on("pressmove", function(evt) {
+            evt.target.x = evt.stageX;
+            evt.target.y = evt.stageY;
+            stage.update();
+        });
     }
 };
