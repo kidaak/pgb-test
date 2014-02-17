@@ -63,7 +63,12 @@ var app = {
 
 
         // Play the audio file at url
-        var my_media = new Media('sounds/beep9.mp3',
+        var src = 'sounds/beep9.mp3';
+        if (device.platform == 'Android') {
+            src = '/android_asset/www/' + src;
+        }
+
+        var my_media = new Media(src,
             // success callback
             function () {
                 console.log("playAudio():Audio Success");
