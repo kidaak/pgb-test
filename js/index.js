@@ -26,12 +26,8 @@ var app = {
     // Bind any events that are required on startup. Common events are:
     // 'load', 'deviceready', 'offline', and 'online'.
     bindEvents: function() {
-        if (!navigator.userAgent.match(/(Chrome|Safari)/)) {
-            document.addEventListener('deviceready', this.onDeviceReady, false);    
-        } else {
-            app.onDeviceReady();
-        }
-        
+        document.addEventListener('deviceready', this.onDeviceReady, false);
+        //this.onDeviceReady();
     },
     // deviceready Event Handler
     //
@@ -39,7 +35,57 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+
+        // Test loading
+        $('#log').text('Test loading');
+        
+
+        //var queue = new createjs.LoadQueue();
+        //queue.on('complete', this.handleComplete, this);
+        //queue.on('fileload', this.handleFileLoad, this);
+        //queue.loadFile('img/archives3_doc2_p2.jpg');
+        //queue.load();
+
+        //$('#log').html('<h1>Hi</h1>');
+        //$('#log').html('<img src="img/archives3_doc2_p2.png">');
+
+        $.ajax({
+            //type: 'GET',
+            url: 'img/archives3_doc2_p2.jpg',
+            //timeout: 100,
+            success: function(data){
+                $('#log').text('success');
+            },
+            error: function() {
+                $('#log').text('error');
+            }
+        });
+
+
+        // Play the audio file at url
+        var my_media = new Media('sounds/beep9.mp3',
+            // success callback
+            function () {
+                console.log("playAudio():Audio Success");
+            },
+            // error callback
+            function (err) {
+                console.log("playAudio():Audio Error: " + err);
+        }
+        );
+        // Play audio
+        my_media.play();
+        
     },
+
+    handleComplete: function() {
+        $('#log').text('Loading complete');
+    },
+
+    handleFileLoad: function(evt) {
+        $('#log').text(evt.item.src);
+    },
+
     // Update DOM on a Received Event
     receivedEvent: function(id) {
         var parentElement = document.getElementById(id);
@@ -50,38 +96,5 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-
-        if (localStorage.getItem('storedData')) {
-            $('.log').text(localStorage.getItem('storedData'));
-        } else {
-            $('.log').text('Storing "Hello"')
-            localStorage.setItem('storedData', 'Hello');
-        }
-
-        $('#clear-btn').on('click', function() {
-            $('.log').text('Cleared');
-            localStorage.clear();
-        });
-
-        /*
-        var info = 'Device Model: '    + device.model    + '<br />' +
-                    'Device Cordova: '  + device.cordova  + '<br />' +
-                    'Device Platform: ' + device.platform + '<br />' +
-                    'Device UUID: '     + device.uuid     + '<br />' +
-                    'Device Version: '  + device.version  + '<br />';
-        $('#device-info').html(info);
-        */
-
-        var stage = new createjs.Stage('demoCanvas');
-        createjs.Touch.enable(stage);
-        var circle = new createjs.Shape();
-        circle.graphics.beginFill('red').drawCircle(0, 0, 50);
-        stage.addChild(circle);
-        stage.update();
-        circle.on("pressmove", function(evt) {
-            evt.target.x = evt.stageX;
-            evt.target.y = evt.stageY;
-            stage.update();
-        });
     }
 };
