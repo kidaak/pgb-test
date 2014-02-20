@@ -1,0 +1,20 @@
+[
+	{
+		"question": "Q1",
+		"answers": [
+			"A1",
+			"A2",
+			"A3"
+		],
+		"correct": 2
+	},
+	{
+		"question": "Q2",
+		"answers": [
+			"A1",
+			"A2",
+			"A3"
+		],
+		"correct": 1
+	}
+]
