@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Signika-Light';
+    src: url('../fonts/Signika-Light.ttf');
+}
+
+body {
+	font-family: 'Signika-Light';
+}
+
+h3 {
+	color: #4b859b;
+	background-color: #eaf9ff;
+	clear: both;
+}
+
+h3 > span {
+	display: block;
+	color: #76b6cf;
+}
+
+h4 {
+	color: #4b859b;
+}
+
+.box-rule-content {
+	color: #4b859b;
+	clear:both;
+}
+
+.box-rule-iconsholder {
+	float: left;
+}
+
+.box-rule-iconsholder > img {
+	width: 100px;
+	height: 100px;
+}
+
+.box-rule-content > p {
+	float: left;
+	margin-top: 0;
+}
+
+.box-rule-content > p > span {
+	display: block;
+	padding-left: 20px;
+}
