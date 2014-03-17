@@ -1,4 +1,6 @@
 <div id="memory" class="content">
+	<a href="#" class="back-to-home"><span class="icons"></span></a>
+	
 	<div id="progress" class="animate-1">
 		<div id="progress-bar"></div>
 		<div id="car-progress">
@@ -7,12 +9,11 @@
 		<button class="pause"><span class="icons"></span></button>
 	</div>
 
-	<a href="#" class="back">Back</a>
-
 	<div class="scrollable">
 		<div class="cards-icon icons page-icon animate-1"></div>
 
 		<div class="text page-text animate-1">
+			<h5>Memory</h5>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem, incidunt, reiciendis debitis.</p>
 		</div><!-- end .text -->
 	</div>
@@ -47,7 +48,7 @@
 
 		<!-- Game overlay used for counter and won text -->
 		<div id="game-overlay">
-			<span id="info" class="animate-1">1</span>
+			<span id="info" class="animate-1">3</span>
 		</div>
 	</div><!-- end #cards -->
 
@@ -70,15 +71,5 @@
 		</div><!-- end #scores -->
 	</div><!-- end #final-scores -->
 
-	<div id="pause-screen">
-		<div class="scrollable">
-			<div class="pause-icon icons page-icon"></div>
-			<h4 class="page-label">Pause</h4>
-		</div>
-	</div><!-- end #pause-screen -->
-
-	<ul class="bottom-menu animate-1">
-		<li><a href="#memory" class="try-again-btn"><div class="try-again icons"></div></a></li>
-		<li><a href="#"><div class="list icons"></div></a></li>
-	</ul>
-</div><!-- end #games -->
+	{{> gamePartial}}
+</div><!-- end #memory -->
