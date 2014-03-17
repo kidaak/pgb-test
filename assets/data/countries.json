@@ -1,0 +1,137 @@
+[
+  {
+    "country_id": "at",
+    "string_id": "austria",
+    "flag_image_file": "austria.png" 
+  },
+  {
+    "country_id": "be",
+    "string_id": "belgium",
+    "flag_image_file": "belgium.png" 
+  },
+  {
+    "country_id": "bg",
+    "string_id": "bulgaria",
+    "flag_image_file": "bulgaria.png" 
+  },
+  {
+    "country_id": "cy",
+    "string_id": "cyprus",
+    "flag_image_file": "cyprus.png" 
+  },
+  {
+    "country_id": "cz",
+    "string_id": "czech_republic",
+    "flag_image_file": "czech_republic.png" 
+  },
+  {
+    "country_id": "dk",
+    "string_id": "denmark",
+    "flag_image_file": "denmark.png" 
+  },
+  {
+    "country_id": "ee",
+    "string_id": "estonia",
+    "flag_image_file": "estonia.png" 
+  },
+  {
+    "country_id": "fi",
+    "string_id": "finland",
+    "flag_image_file": "finland.png" 
+  },
+  {
+    "country_id": "fr",
+    "string_id": "france",
+    "flag_image_file": "france.png" 
+  },
+  {
+    "country_id": "de",
+    "string_id": "germany",
+    "flag_image_file": "germany.png" 
+  },
+  {
+    "country_id": "gr",
+    "string_id": "greece",
+    "flag_image_file": "greece.png" 
+  },
+  {
+    "country_id": "hu",
+    "string_id": "hungary",
+    "flag_image_file": "hungary.png" 
+  },
+  {
+    "country_id": "ie",
+    "string_id": "ireland",
+    "flag_image_file": "ireland.png" 
+  },
+  {
+    "country_id": "it",
+    "string_id": "italy",
+    "flag_image_file": "italy.png" 
+  },
+  {
+    "country_id": "lv",
+    "string_id": "latvia",
+    "flag_image_file": "latvia.png" 
+  },
+  {
+    "country_id": "lt",
+    "string_id": "lithuania",
+    "flag_image_file": "lithuania.png" 
+  },
+  {
+    "country_id": "lu",
+    "string_id": "luxembourg",
+    "flag_image_file": "luxembourg.png" 
+  },
+  {
+    "country_id": "mt",
+    "string_id": "malta",
+    "flag_image_file": "malta.png" 
+  },
+  {
+    "country_id": "nl",
+    "string_id": "netherlands",
+    "flag_image_file": "netherlands.png" 
+  },
+  {
+    "country_id": "pl",
+    "string_id": "poland",
+    "flag_image_file": "poland.png" 
+  },
+  {
+    "country_id": "pt",
+    "string_id": "portugal",
+    "flag_image_file": "portugal.png" 
+  },
+  {
+    "country_id": "ro",
+    "string_id": "romania",
+    "flag_image_file": "romania.png" 
+  },
+  {
+    "country_id": "sk",
+    "string_id": "slovakia",
+    "flag_image_file": "slovakia.png" 
+  },
+  {
+    "country_id": "si",
+    "string_id": "slovenia",
+    "flag_image_file": "slovenia.png" 
+  },
+  {
+    "country_id": "es",
+    "string_id": "spain",
+    "flag_image_file": "spain.png" 
+  },
+  {
+    "country_id": "se",
+    "string_id": "sweden",
+    "flag_image_file": "sweden.png" 
+  },
+  {
+    "country_id": "gb",
+    "string_id": "united_kingdom",
+    "flag_image_file": "united_kingdom.png" 
+  }
+]
