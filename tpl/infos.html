@@ -1,0 +1,65 @@
+<div id="infos" class="content hidden-menus"><!-- add class "hidden-menus" if needed -->
+    <a href="#" class="back-to-home"><span class="icons"></span></a>
+
+    <div class="inner-content">
+        <header id="selected-infos">
+            <span class="selected-country selected-info show-left-menu">United Kingdom</span>
+            <span class="selected-topic selected-info show-right-menu">Forbidden lane</span>
+        </header>
+        
+        <div class="content-page scrollable">
+            <h4>Lanes for public transport vehicles</h4>
+            
+            <div class="inner-text">
+                <h5>High-occupancy vehicle (HOV) lanes</h5>
+
+                <div class="content-car"></div>
+                <p>HOV lanes usually look like a bus lane, with traffic separated by a solid white lane and road markings reading "2+ lane" at regular intervals. They are signposted with the "2+" car symbol.</p>
+
+                <h5>Other designated vehicle lanes</h5>
+                <p>Lanes may be restricted for use by particular types of vehicle; these restrictions may apply some or all of the time. The operating times and vehicle types will be indicated on the accompanying traffic signs. Drivers must not drive in such lanes during their times of operation unless signs indicate that their vehicles are permitted.</p>
+                <p>Lanes may be restricted for use by particular types of vehicle; these restrictions may apply some or all of the time. The operating times and vehicle types will be indicated on the accompanying traffic signs. Drivers must not drive in such lanes during their times of operation unless signs indicate that their vehicles are permitted.</p>
+
+                <p class="line">The information on road-safety rules on this website according to Article 8(1) of Directive 2011/82/EU facilitating the cross-border exchange of information on road safety related traffic offences is NOT provided by United Kingdom. In the event of any conflict between the provided data and the rules in effect in a given country, the latter take precedence. The data are meant purely as a documentation tool and the Commission does not assume any liability for their content or their accuracy.</p>
+            </div><!-- end .text -->
+        </div><!-- end .scrollable -->
+    </div><!-- end .inner-content -->
+
+    <div class="left-menu menu">
+        <div class="inner-menu">
+            <h3>
+                <span class="country-icon icons"></span>
+                <span data-i18n="infos.by_country">By country</span>
+            </h3>
+            <ul>
+                <!--<li data-country="austria"><b class="icons"></b>Austria</li>-->
+                {{#each countries}}
+                <li data-country="{{this.string_id}}"><b class="icons"></b><span data-i18n="country.{{this.string_id}}">{{this.string_id}}</span></li>
+                {{/each}}
+            </ul>
+        </div><!-- end .inner-menu -->
+    </div><!-- end .left-menu -->
+
+    <div class="show-left-menu show-menu">
+            <span data-i18n="infos.country">Country</span>
+   </div><!-- end .show-left-menu -->
+
+    <div class="show-right-menu show-menu">
+        <span data-i18n="infos.topic">Topic</span>
+    </div><!-- end .show-right-menu -->
+
+    <div class="right-menu menu">
+        <div class="inner-menu">
+            <h3>
+                <span class="topic-icon icons"></span>
+                <span data-i18n="infos.by_topic">By topic</span>
+            </h3>
+            <ul>
+                <!--<li data-topic="speed-limits"><div class="icon-container"><b class="icons"></b></div>Speed limits</li>-->
+                {{#each topics}}
+                <li data-topic="{{this.topic_id}}"><div class="icon-container"><b class="icons"></b></div><span data-i18n="topic.{{this.string_id}}">{{this.string_id}}</span></li>
+                {{/each}}
+            </ul>
+        </div><!-- end .inner-menu -->
+    </div><!-- end .left-menu -->
+</div><!-- end #home -->
