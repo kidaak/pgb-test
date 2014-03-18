@@ -42,9 +42,14 @@ function PageSlider(container) {
         // Position the page at the starting position of the animation
         page.attr("class", "page " + from);
 
-        currentPage.one('webkitTransitionEnd transitionend', function(e) {
-            $(e.target).remove();
-        });
+        var pageTransitionDuration = $('.page').css('transition-duration').replace(/[^0-9\.]/g,'') * 1000;
+        setTimeout(function() {
+            $('.page.left, .page.right').remove();
+        }, pageTransitionDuration);
+
+        // currentPage.one('webkitTransitionEnd transitionend', function(e) {
+            // $(e.target).remove();
+        // });
 
         // Force reflow. More information here: http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/
         container[0].offsetWidth;
