@@ -4,7 +4,6 @@
  */
 
 function PageSlider(container) {
-
     var container = container,
         currentPage,
         stateHistory = [];
@@ -32,7 +31,6 @@ function PageSlider(container) {
 
     // Use this function directly if you want to control the sliding direction outside PageSlider
     this.slidePageFrom = function(page, from) {
-
         container.append(page);
 
         if (!currentPage || !from) {
@@ -44,7 +42,7 @@ function PageSlider(container) {
         // Position the page at the starting position of the animation
         page.attr("class", "page " + from);
 
-        currentPage.one('webkitTransitionEnd', function(e) {
+        currentPage.one('webkitTransitionEnd transitionend', function(e) {
             $(e.target).remove();
         });
 

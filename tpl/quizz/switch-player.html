@@ -1,6 +1,4 @@
-<div id="choose-players" class="content">
-	<a href="#" class="back-to-home"><span class="icons"></span></a>
-
+<div id="switch-player" class="content">
 	<div class="top">
 		<div class="visual">
 			<div class="quizz-icon icons page-icon"></div>
@@ -14,7 +12,7 @@
 				<div class="player-container">
 					<span class="player-icon icons"></span>
 				</div>
-				Jack
+				<input type="text" value="Jack">
 				<div class="playing-container hidden">
 					<span class="playing-icon icons"></span>
 				</div>
@@ -23,7 +21,7 @@
 				<div class="player-container">
 					<span class="player-icon icons"></span>
 				</div>
-				Julie
+				<input type="text" value="Julie">
 				<div class="playing-container hidden">
 					<span class="playing-icon icons"></span>
 				</div>
@@ -32,7 +30,7 @@
 				<div class="player-container">
 					<span class="player-icon icons"></span>
 				</div>
-				Michel
+				<input type="text" value="Michel">
 				<div class="playing-container hidden">
 					<span class="playing-icon icons"></span>
 				</div>
@@ -41,7 +39,7 @@
 				<div class="player-container">
 					<span class="player-icon icons"></span>
 				</div>
-				Wero
+				<input type="text" value="Wero">
 				<div class="playing-container hidden">
 					<span class="playing-icon icons"></span>
 				</div>
@@ -50,7 +48,7 @@
 				<div class="player-container">
 					<span class="player-icon icons"></span>
 				</div>
-				Damien
+				<input type="text" value="Damien">
 				<div class="playing-container hidden">
 					<span class="playing-icon icons"></span>
 				</div>
@@ -59,12 +57,13 @@
 				<div class="player-container">
 					<span class="player-icon icons"></span>
 				</div>
-				Martine
+				<input type="text" value="Martine">
 				<div class="playing-container hidden">
 					<span class="playing-icon icons"></span>
 				</div>
 			</li>
 		</ul>
-		<a href="#question" id="play">Play</a>
 	</div><!-- end .bottom -->
+
+	{{> gamePartial}}
 </div><!-- end #result-solo -->
