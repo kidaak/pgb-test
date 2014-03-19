@@ -29,6 +29,14 @@ function PageSlider(container) {
 
     }
 
+    function disableInteraction() {
+        $('#disable-interaction').show();
+    }
+
+    function enableInteraction() {
+        $('#disable-interaction').hide();
+    }
+
     // Use this function directly if you want to control the sliding direction outside PageSlider
     this.slidePageFrom = function(page, from) {
         container.append(page);
@@ -42,13 +50,14 @@ function PageSlider(container) {
         // Position the page at the starting position of the animation
         page.attr("class", "page " + from);
 
-        var pageTransitionDuration = $('.page').css('transition-duration').replace(/[^0-9\.]/g,'') * 1000;
+        disableInteraction();
         setTimeout(function() {
             $('.page.left, .page.right').remove();
-        }, pageTransitionDuration);
+            enableInteraction();
+        }, 450);
 
         // currentPage.one('webkitTransitionEnd transitionend', function(e) {
-            // $(e.target).remove();
+        //     $(e.target).remove();
         // });
 
         // Force reflow. More information here: http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/
