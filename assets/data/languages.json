@@ -1,98 +1,122 @@
 [
   {
     "locale_id": "bg",
-    "string_id": "bulgarian"
+    "string_id": "bulgarian",
+    "native_name": "български"
   },
   {
     "locale_id": "hr",
-    "string_id": "croatian"
+    "string_id": "croatian",
+    "native_name": "hrvatski"
   },
   {
     "locale_id": "cs",
-    "string_id": "czech"
+    "string_id": "czech",
+    "native_name": "čeština"
   },
   {
     "locale_id": "da",
-    "string_id": "danish"
+    "string_id": "danish",
+    "native_name": "dansk"
   },
   {
     "locale_id": "nl",
-    "string_id": "dutch"
+    "string_id": "dutch",
+    "native_name": "Nederlands"
   },
   {
     "locale_id": "en",
-    "string_id": "english"
+    "string_id": "english",
+    "native_name": "English"
   },
   {
     "locale_id": "et",
-    "string_id": "estonian"
+    "string_id": "estonian",
+    "native_name": "eesti"
   },
   {
     "locale_id": "fi",
-    "string_id": "finnish"
+    "string_id": "finnish",
+    "native_name": "suomi"
   },
   {
     "locale_id": "fr",
-    "string_id": "french"
+    "string_id": "french",
+    "native_name": "français"
   },
   {
     "locale_id": "de",
-    "string_id": "german"
+    "string_id": "german",
+    "native_name": "Deutsch"
   },
   {
     "locale_id": "el",
-    "string_id": "greek"
+    "string_id": "greek",
+    "native_name": "ελληνικά"
   },
   {
     "locale_id": "hu",
-    "string_id": "hungarian"
+    "string_id": "hungarian",
+    "native_name": "magyar"
   },
   {
     "locale_id": "ga",
-    "string_id": "irish"
+    "string_id": "irish",
+    "native_name": "Gaeilge"
   },
   {
     "locale_id": "it",
-    "string_id": "italian"
+    "string_id": "italian",
+    "native_name": "italiano"
   },
   {
     "locale_id": "lv",
-    "string_id": "latvian"
+    "string_id": "latvian",
+    "native_name": "latviešu"
   },
   {
     "locale_id": "lt",
-    "string_id": "lithuanian"
+    "string_id": "lithuanian",
+    "native_name": "lietuvių"
   },
   {
     "locale_id": "mt",
-    "string_id": "maltese"
+    "string_id": "maltese",
+    "native_name": "malti"
   },
   {
     "locale_id": "pl",
-    "string_id": "polish"
+    "string_id": "polish",
+    "native_name": "polski"
   },
   {
     "locale_id": "pt",
-    "string_id": "portugese"
+    "string_id": "portugese",
+    "native_name": "português"
   },
   {
     "locale_id": "ro",
-    "string_id": "romanian"
+    "string_id": "romanian",
+    "native_name": "română"
   },
   {
     "locale_id": "sk",
-    "string_id": "slovak"
+    "string_id": "slovak",
+    "native_name": "slovenčina"
   },
   {
     "locale_id": "sl",
-    "string_id": "slovene"
+    "string_id": "slovene",
+    "native_name": "slovenščina"
   },
   {
     "locale_id": "es",
-    "string_id": "spanish"
+    "string_id": "spanish",
+    "native_name": "español"
   },
   {
     "locale_id": "sv",
-    "string_id": "swedish"
+    "string_id": "swedish",
+    "native_name": "svenska"
   }
 ]

@@ -29,11 +29,11 @@ function PageSlider(container) {
 
     }
 
-    function disableInteraction() {
+    this.disableInteraction = function() {
         $('#disable-interaction').show();
     }
 
-    function enableInteraction() {
+    this.enableInteraction = function() {
         $('#disable-interaction').hide();
     }
 
@@ -50,10 +50,11 @@ function PageSlider(container) {
         // Position the page at the starting position of the animation
         page.attr("class", "page " + from);
 
-        disableInteraction();
+        this.disableInteraction();
+        var self = this;
         setTimeout(function() {
             $('.page.left, .page.right').remove();
-            enableInteraction();
+            self.enableInteraction();
         }, 450);
 
         // currentPage.one('webkitTransitionEnd transitionend', function(e) {

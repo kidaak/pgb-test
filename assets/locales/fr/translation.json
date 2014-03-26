@@ -1,9 +1,9 @@
 {
 	"country": {
-		"austria": "Austria",
-		"belgium": "Belgium",
-		"bulgaria": "Bulgaria",
-		"cyprus": "Cyprus",
+		"austria": "Autriche",
+		"belgium": "Belgique",
+		"bulgaria": "Bulgarie",
+		"cyprus": "Chypre",
 		"czech_republic": "Czech Republic",
 		"denmark": "Denmark",
 		"estonia": "Estonia",
@@ -39,23 +39,10 @@
 		"mobile_telephone": "Mobile telephone",
 		"other_specific_rules": "Other specific rules"
 	},
-    "home": {
-        "highway_codes_by_country": "Highway Codes by Country",
-        "travel_games": "Travel Games"
-    },
-    "infos": {
-        "by_country": "By country",
-        "country": "Country",
-        "topic": "Topic",
-        "by_topic": "By topic"
-    },
-    "settings": {
-        "language": "Language",
-        "disclaimer": {
-            "title": "Disclaimer",
-            "description_1": "Going Abroad, European higway code",
-            "description_2": "ide omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
-            "caution": "The content available on this application is not refreshed daily. For the latest content please refer to :"
-        }
-    }
+	"infos": {
+		"by_country": "Par pays",
+		"by_topic": "Par catégorie",
+		"country": "Pays",
+		"topic": "Catégorie"
+	}
 }

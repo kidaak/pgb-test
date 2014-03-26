@@ -1,0 +1,596 @@
+[
+    {
+        "question_id": "1",
+        "question": "En Autriche, Le port de la ceinture de s\u00E9curit\u00E9 est :",
+        "image": "",
+        "answers": [
+            "Obligatoire",
+            "Interdit",
+            "Vivement conseill\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "2",
+        "question": "En Autriche, Pour qui un syst\u00E8me de retenue adapt\u00E9 est-il obligatoire ?",
+        "image": "",
+        "answers": [
+            "Les enfants de moins de 14 ans",
+            "Les enfants de moins d\u20191m50",
+            "Les deux"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "3",
+        "question": "En Autriche, Pour qui le port de la ceinture n\u2019est-il pas obligatoire ?",
+        "image": "",
+        "answers": [
+            "Un conducteur de plus de 70 ans",
+            "Un conducteur de plus de 30 ans d\u2019exp\u00E9rience",
+            "Un chauffeur de taxi en course"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "4",
+        "question": "En Autriche, Le port de la ceinture n\u2019est pas obligatoire pour un enfant, dans une ambulance ou un v\u00E9hicule de s\u00E9curit\u00E9 publique :",
+        "image": "",
+        "answers": [
+            "S\u2019il est assis \u00E0 l\u2019arri\u00E8re",
+            "S\u2019il est asthmatique",
+            "S\u2019il est assis \u00E0 l\u2019avant, sur les genoux d\u2019un adulte"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "5",
+        "question": "En Autriche, Pour une personne qui se gare, le port de la ceinture :",
+        "image": "",
+        "answers": [
+            "Est obligatoire, sauf pour les personnes corpulentes",
+            "Est interdit",
+            "N\u2019est pas obligatoire"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "6",
+        "question": "En Autriche, Un enfant de moins de 14 ans mais de plus d\u20191m50 doit-il porter une ceinture adapt\u00E9e \u00E0 sa taille ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il p\u00E8se moins de 30 kg",
+            "Non",
+            "Uniquement si ses parents l\u2019exigent"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "7",
+        "question": "En Autriche, Un enfant de plus de 14 ans mais de moins d\u20191m50 doit-il porter une ceinture adapt\u00E9e \u00E0 sa taille ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les trajets de plus de 3 km"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "8",
+        "question": "En Autriche, NO INFORMATIONhttp:",
+        "image": "",
+        "answers": [
+            "No information",
+            "Http://ec.Europa.Eu/transport/road_safety/going_abroad/austria/traffic_lights_en.Htm",
+            ""
+        ],
+        "correct_answer": "?"
+    },
+    {
+        "question_id": "9",
+        "question": "En Autriche, Dans un carrefour muni de feux de circulation, lorsqu\u2019un automobiliste croise un cycliste, il doit :",
+        "image": "",
+        "answers": [
+            "Lui c\u00E9der le passage",
+            "Klaxonner bri\u00E8vement pour signaler sa pr\u00E9sence",
+            "Acc\u00E9l\u00E9rer pour \u00E9viter tout risque de collision"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "10",
+        "question": "En Autriche, L\u2019allumage des feux de jour est obligatoire :",
+        "image": "",
+        "answers": [
+            "En hiver",
+            "Si le temps est maussade",
+            "Toute l\u2019ann\u00E9e"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "11",
+        "question": "En Autriche, En Autriche, un feu vert signifie :",
+        "image": "",
+        "answers": [
+            "Qu\u2019on peut passer",
+            "Qu\u2019on peut se pr\u00E9parer \u00E0 passer",
+            "Qu\u2019on peut rouler dans l\u2019herbe"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "12",
+        "question": "En Autriche, Un feu de circulation avec un petit bonhomme rouge signifie :",
+        "image": "",
+        "answers": [
+            "Risques de coups de soleil",
+            "Passage r\u00E9serv\u00E9 aux personnes habill\u00E9es en rouge",
+            "Les pi\u00E9tons doivent s\u2019arr\u00EAter"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "13",
+        "question": "En Autriche, A quelle vitesse un pi\u00E9ton doit-il traverser une rue ?",
+        "image": "",
+        "answers": [
+            " A la vitesse de son choix",
+            "A maximum 3,5 km/h",
+            "Le plus lentement possible"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "14",
+        "question": "En Autriche, Un feu jaune accompagnant un feu vert signifie que :",
+        "image": "",
+        "answers": [
+            "Le feu est en panne",
+            "Le coucher du soleil est proche",
+            "La phase verte est imminente"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "15",
+        "question": "En Autriche, Quel est le taux d\u2019alcool\u00E9mie maximum autoris\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0 G/l. L\u2019alcool au volant est interdit",
+            ">0,5g/l",
+            ">2 G/l mais le conducteur ne doit pas d\u00E9passer les 50 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "16",
+        "question": "En Autriche, Quel est le taux d\u2019alcool\u00E9mie maximum pour un jeune conducteur (-2 ans de permis) :",
+        "image": "",
+        "answers": [
+            "0,1g/l",
+            "0,5g/l",
+            "1g/l avec une exception pour les jours f\u00E9ri\u00E9s ou le taux maximum est doubl\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "17",
+        "question": "En Autriche, Quel est le taux d\u2019alcool\u00E9mie maximum pour un chauffeur professionnel ?",
+        "image": "",
+        "answers": [
+            "0,1g/l",
+            "0,3g/l",
+            "Il est sans limite s\u2019il porte sa ceinture de s\u00E9curit\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "18",
+        "question": "En Autriche, Un taux maximum d\u2019alcool dans le sang de 0,1 g/l, c\u2019est pour :",
+        "image": "",
+        "answers": [
+            "Les cyclomotoristes",
+            "Les personnes \u00E2g\u00E9es",
+            "Les femmes enceintes"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "19",
+        "question": "En Autriche, Quel est la taux maximum d\u2019alcool par litre de sang pour un conducteur de poids lourds ?",
+        "image": "",
+        "answers": [
+            "1 Litre",
+            "1 Verre de bi\u00E8re",
+            "0,1 G"
+        ],
+        "correct_answer": "?"
+    },
+    {
+        "question_id": "20",
+        "question": "En Autriche, Quel est le taux maximum d\u2019alcool dans le sang tol\u00E9r\u00E9 pour un conducteur de plus de 60 ans ?",
+        "image": "",
+        "answers": [
+            "0 G/l",
+            "0 G/l sauf si la personne porte des lunettes",
+            "0,5 G/l que la personne porte des lunettes ou pas"
+        ],
+        "correct_answer": "?"
+    },
+    {
+        "question_id": "21",
+        "question": "En Autriche, Un conducteur ayant fum\u00E9 une cigarette peut prendre le volant :",
+        "image": "",
+        "answers": [
+            "Imm\u00E9diatement",
+            "Imm\u00E9diatement, sauf les jours de brouillard",
+            "Apr\u00E8s 15 minutes"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "22",
+        "question": "En Autriche, Est-il permis de conduire sous l\u2019effet d\u2019une drogue ?",
+        "image": "",
+        "answers": [
+            "Non. C\u2019est totalement interdit.",
+            "Uniquement s\u2019il s\u2019agit d\u2019une drogue douce",
+            "Uniquement si le conducteur a l\u2019habitude"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "23",
+        "question": "En Autriche, Un conducteur ayant pris une drogue qui influence le comportement peut-il prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, s\u2019il y a un d\u00E9lai d\u2019au moins une heure entre la prise de drogue et le d\u00E9marrage",
+            "Uniquement si la drogue a \u00E9t\u00E9 prescrite par un m\u00E9decin"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "24",
+        "question": "En Autriche, Un conducteur ayant pris un somnif\u00E8re peut-il prendre sa voiture ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il a pris le somnif\u00E8re 2h plus t\u00F4t",
+            "Oui, s\u2019il se sent en pleine forme",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "25",
+        "question": "En Autriche, Quel est le seuil de tol\u00E9rance pour la consommation de cannabis au volant ?",
+        "image": "",
+        "answers": [
+            "Aucun. La consommation est interdite.",
+            "Sans limite. Cela fait partie du folklore autrichien",
+            "1 Joint de cannabis/100 km"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "26",
+        "question": "En Autriche, Peut-on conduire sous l\u2019emprise de la cocaine ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E7a renforce la concentration",
+            "Non",
+            "Oui, mais uniquement entre 1h et 6h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "27",
+        "question": "En Autriche, Les voies r\u00E9serv\u00E9es peuvent \u00EAtre utilis\u00E9es par :",
+        "image": "",
+        "answers": [
+            "Les ambulances et les pompiers",
+            "Les v\u00E9los",
+            "Les bus"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "28",
+        "question": "En Autriche, Peut-on s\u2019arr\u00EAter sur une voie d\u2019arr\u00EAt d\u2019urgence ?",
+        "image": "",
+        "answers": [
+            "Oui, pour pique-niquer",
+            "Oui, pour une faire une pause pendant les longs trajets",
+            "Non, sauf en cas d\u2019urgence"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "29",
+        "question": "En Autriche, Quand peut-on s\u2019engager sur une voie r\u00E9serv\u00E9e ?",
+        "image": "",
+        "answers": [
+            "Quand on veut d\u00E9passer tout le monde",
+            "Quand il y a des embouteillages",
+            "Jamais"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "30",
+        "question": "En Autriche, Pourquoi les bus publics b\u00E9n\u00E9ficient-ils de voies r\u00E9serv\u00E9es ?",
+        "image": "",
+        "answers": [
+            "Parce qu\u2019ils ont pay\u00E9",
+            "Pour leur \u00E9viter de percuter des voitures",
+            "Pour permettre une circulation plus fluide des transports en commun"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "31",
+        "question": "En Autriche, Un pi\u00E9ton peut-il circuler sur une voie r\u00E9serv\u00E9e ?",
+        "image": "",
+        "answers": [
+            "Non.",
+            "Oui, s\u2019il court aussi vite qu\u2019un bus",
+            "Oui, s\u2019il s\u2019y est engag\u00E9 avant le bus"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "32",
+        "question": "En Autriche, Une personne en chaise roulante peut-elle circuler sur une voie r\u00E9serv\u00E9e ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement en dehors des heures de pointe",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "33",
+        "question": "En Autriche, Un enfant qui roule \u00E0 v\u00E9lo doit porter un casque :",
+        "image": "",
+        "answers": [
+            "Lors de chaque trajet",
+            "S\u2019il n\u2019est pas accompagn\u00E9 par un adulte",
+            "S\u2019il a moins de 13 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "34",
+        "question": "En Autriche, Le port du casque est-il obligatoire sur une mobylette ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement pour les conducteurs de moins de 21 ans",
+            "Oui, sauf sur une piste cyclable"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "35",
+        "question": "En Autriche, Le port du casque est-il obligatoire pour les adultes circulant en bicyclette ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en zone urbaine"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "36",
+        "question": "En Autriche, Le port du casque pour une personne circulant en moto :",
+        "image": "",
+        "answers": [
+            "Est obligatoire au-del\u00E0 des 50 km/h",
+            "Est obligatoire sauf si la moto est \u00E9quip\u00E9e d\u2019un sidecar",
+            "Est obligatoire"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "37",
+        "question": "En Autriche, Pourquoi le port du casque est-il obligatoire sur une mobylette ?",
+        "image": "",
+        "answers": [
+            "Parce qu\u2019en cas de pluie, \u00E7a pr\u00E9serve la coiffure de l\u2019usager",
+            "Parce qu\u2019en cas d\u2019accident, \u00E7a prot\u00E9ge des chocs",
+            "Parce qu\u2019en cas de froid intense, \u00E7a r\u00E9chauffe les oreilles"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "38",
+        "question": "En Autriche, Un enfant dans un landau doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement dans la rue",
+            "Uniquement s\u2019il se d\u00E9place sans l\u2019aide d\u2019un adulte"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "39",
+        "question": "En Autriche, L\u2019usage du t\u00E9l\u00E9phone portable sans kit main libre :",
+        "image": "",
+        "answers": [
+            "Est autoris\u00E9",
+            "N\u2019est autoris\u00E9 que dans les embouteillages",
+            " Est interdit"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "40",
+        "question": "En Autriche, L\u2019usage du t\u00E9l\u00E9phone portable avec kit main libre :",
+        "image": "",
+        "answers": [
+            "Est tol\u00E9r\u00E9",
+            "Est interdit",
+            "Est autoris\u00E9 si la conversation n\u2019exc\u00E8de pas les 5 minutes."
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "41",
+        "question": "En Autriche, Peut-on t\u00E9l\u00E9phoner \u00E0 sa belle-m\u00E8re lorsque l\u2019on est au volant ?",
+        "image": "",
+        "answers": [
+            "Oui, si elle est de bonne humeur",
+            "Oui, si on utilise un kit mains libres",
+            "Non. C\u2019est bien trop perturbant"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "42",
+        "question": "En Autriche, Pourquoi consid\u00E8re-t-on que t\u00E9l\u00E9phoner en conduisant est dangereux ?",
+        "image": "",
+        "answers": [
+            "Parce que cela distrait les passagers du v\u00E9hicule",
+            "Parce que les ondes du t\u00E9l\u00E9phone peuvent faire exploser le moteur",
+            "Parce que lorsque l\u2019on t\u00E9l\u00E9phone, on perd sa concentration."
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "43",
+        "question": "En Autriche, Quelle est la meilleure attitude \u00E0 adopter lorsque l\u2019on re\u00E7oit un appel et que l\u2019on est au volant ?",
+        "image": "",
+        "answers": [
+            "D\u00E9crocher et saluer poliment",
+            "Rappeler la personne lorsque l\u2019on a termin\u00E9 son trajet",
+            "Ne pas d\u00E9crocher et ne plus jamais parler \u00E0 la personne"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "44",
+        "question": "En Autriche, Un enfant de 14 ans au volant peut-il t\u00E9l\u00E9phoner sans kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E0 condition qu\u2019un adulte tienne le volant",
+            "Oui",
+            "Non. A 14 ans, on ne conduit pas"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "45",
+        "question": "En Autriche, Entre le 01/11 et le 15/04, si vous n\u2019\u00EAtes pas \u00E9quip\u00E9s de pneus d\u2019hiver, vous risquez une amende :",
+        "image": "",
+        "answers": [
+            "De 100\u20AC/pneus",
+            "Correspondant \u00E0 10% de votre salaire mensuel",
+            "Allant de 35 \u00E0 5000\u20AC"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "46",
+        "question": "En Autriche, L\u2019utilisation des feux de jour est :",
+        "image": "",
+        "answers": [
+            "Obligatoire",
+            "Tol\u00E9r\u00E9 apr\u00E8s le coucher du soleil",
+            "Interdit"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "47",
+        "question": "En Autriche, Dans une voiture, la trousse de premier secours est :",
+        "image": "",
+        "answers": [
+            "Obligatoire",
+            "Obligatoire pour les trajets de plus de 100 km",
+            "Obligatoire pour les personnes sujettes au malaise cardiaque"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question_id": "48",
+        "question": "En Autriche, De quel \u00E9quipement de s\u00E9curit\u00E9 une voiture doit-elle \u00EAtre \u00E9quip\u00E9e ?",
+        "image": "",
+        "answers": [
+            "Une t\u00E9l\u00E9phone, une trousse de secours, une lampe de poche",
+            "Un cric, une trousse de secours, un extincteur",
+            "Une trousse de premier secours, un triangle warning, une veste r\u00E9fl\u00E9chissante"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "49",
+        "question": "En Autriche, Qu\u2019arrive-t-il si deux v\u00E9hicules ne peuvent se croiser sur une route de montagne ?",
+        "image": "",
+        "answers": [
+            "Les deux v\u00E9hicules doivent faire marche arri\u00E8re",
+            "Celui qui poss\u00E8de le plus gros v\u00E9hicule a la priorit\u00E9",
+            "Celui pour lequel la man\u0153uvre est la plus difficile a la priorit\u00E9"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "50",
+        "question": "En Autriche, En cas d\u2019accident sur l\u2019autoroute, tous les v\u00E9hicules :",
+        "image": "",
+        "answers": [
+            "Doivent faire marche arri\u00E8re et emprunter la bretelle de sortie la plus proche",
+            "Doivent s\u2019\u00E9loigner le plus rapidement possible du danger",
+            "Doivent se d\u00E9caler afin de laisser le passage aux v\u00E9hicules d\u2019intervention"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question_id": "51",
+        "question": "En Autriche, Si nous fr\u00E9quentons les autoroutes, que devons-nous obligatoirement avoir ?",
+        "image": "",
+        "answers": [
+            "Un gps",
+            "Une vignette autoroute",
+            "Un pneu de rechange"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "52",
+        "question": "En Autriche, Si un feu vert clignote, cela signifie :",
+        "image": "",
+        "answers": [
+            "Que le feu est en panne et que la priorit\u00E9 de droite est de rigueur",
+            "Que le feu va passer au rouge",
+            "Que l\u2019usager doit faire preuve de prudence"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "53",
+        "question": "En Autriche, Si un ressortissant de l\u2019EU commet une infraction en Autriche :",
+        "image": "",
+        "answers": [
+            "Il doit attendre l\u2019amende chez lui",
+            "Il doit s\u2019acquitter de l\u2019amende sur le champ",
+            "Il re\u00E7oit une amende et doit quitter le pays dans les 24 heures."
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question_id": "54",
+        "question": "En Autriche, En Autriche, \u00E0 partir du 14 avril, par temps hivernal, les 4 pneus neige sont :",
+        "image": "",
+        "answers": [
+            "Obligatoires",
+            "Facultatifs",
+            "Obligatoires pour les v\u00E9hicules de moins de 2 tonnes."
+        ],
+        "correct_answer": "1"
+    }
+]
