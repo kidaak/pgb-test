@@ -77,17 +77,6 @@
         "correct_answer": "1"
     },
     {
-        "question_id": "8",
-        "question": "En Autriche, NO INFORMATIONhttp:",
-        "image": "",
-        "answers": [
-            "No information",
-            "Http://ec.Europa.Eu/transport/road_safety/going_abroad/austria/traffic_lights_en.Htm",
-            ""
-        ],
-        "correct_answer": "?"
-    },
-    {
         "question_id": "9",
         "question": "En Autriche, Dans un carrefour muni de feux de circulation, lorsqu\u2019un automobiliste croise un cycliste, il doit :",
         "image": "",
