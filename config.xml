@@ -58,4 +58,6 @@
     <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     
     <access origin="*" subdomains="true" />
+
+    <gap:plugin name="org.apache.cordova.globalization" version="0.2.6" />
 </widget>
