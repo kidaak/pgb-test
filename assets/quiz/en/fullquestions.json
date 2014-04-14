@@ -1,0 +1,5872 @@
+[
+    {
+        "question": "En France, quelle est la vitesse maximum autoris\u00E9e en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "50 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, quelle est la vitesse maximum autoris\u00E9e hors agglom\u00E9ration, en cas de pluie ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "80 km/h",
+            "On ne peut pas conduire quand il pleut, en France"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, quelle est la vitesse maximum autoris\u00E9e sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Cela varie de 100 \u00E0 130 km/h",
+            "Cela varie de 120 \u00E0 140 km/h",
+            "Cela varie de 80 \u00E0 120 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, quelle est la vitesse maximum autoris\u00E9e sur l\u2019autoroute si la visibilit\u00E9 ne d\u00E9passe pas les 50 m\u00E8tres ?",
+        "image": "",
+        "answers": [
+            "10 km/h",
+            "80 km/h",
+            "50 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En France, \u00E0 quelle vitesse maximum peut rouler un bus en ville ?",
+        "image": "",
+        "answers": [
+            "Il n\u2019y a pas de limites. Un bus ne roule jamais tr\u00E8s vite.",
+            "50 km/h",
+            "120 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, \u00E0 quelle vitesse maximum peut rouler un enfant sur un tricycle ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "40 km/h",
+            "Il n\u2019y a pas de limite"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En France, le port de la ceinture de s\u00E9curit\u00E9 est-elle obligatoire \u00E0 l\u2019arri\u00E8re d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les personnes \u00E2g\u00E9es"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, un conducteur de voiture doit-il mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il est \u00E2g\u00E9 de moins de 16 ans"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, dans lequel de ces cas n\u2019est-on pas oblig\u00E9 de mettre sa ceinture de s\u00E9curit\u00E9 au volant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Quand un certificat m\u00E9dical le justifie",
+            "Quand on n\u2019aime pas \u00E7a",
+            "Quand on a trop mang\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, un chauffeur de taxi doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si ses passagers l\u2019exigent"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, le port de la ceinture est-il obligatoire pour un livreur effectuant des haltes r\u00E9guli\u00E8res ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Cela d\u00E9pend de la taille du paquet qu\u2019il livre"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, combien de joints de cannabis peut-on fumer avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "0",
+            "2",
+            "Ca d\u00E9pend de la provenance du cannabis"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, consommer des amph\u00E9tamines au volant, c\u2019est conseill\u00E9 pour",
+        "image": "",
+        "answers": [
+            "les conducteurs fatigu\u00E9s",
+            "les personnes \u00E2g\u00E9es",
+            "personne"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En France, combien d\u2019ecstasy maximum peut-on prendre avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "0",
+            "1",
+            "Quelques-uns mais pas trop quand m\u00EAme"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, le port du casque est-il obligatoire sur un v\u00E9lo ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement pour les tr\u00E8s mauvais cyclistes",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En France, le port du casque est-il obligatoire sur une mobylette ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les conducteurs de moins de 21 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, le port du casque est-il obligatoire sur un quad ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si les 4 roues sont motrices"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, le port du casque est-il obligatoire sur une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non. Avec 3 roues, on est s\u00FBr de ne pas tomber",
+            "Oui",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, doit-on porter un casque si l\u2019on pilote une moto avec side-car ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement le week-end"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En France, peut-on t\u00E9l\u00E9phoner au volant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, au moyen d\u2019un kit mains libres",
+            "Oui, si l\u2019on ne roule pas trop vite"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En France, peut-on \u00EAtre inculp\u00E9 pour distraction au volant m\u00EAme si on t\u00E9l\u00E9phone avec un kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si on l\u00E2che totalement son volant",
+            "Non. T\u00E9l\u00E9phoner au volant, \u00E7a ne distrait pas"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Allemagne, quel est le taux d\u2019alcool dans le sang  maximum tol\u00E9r\u00E9 pour un chauffeur routier exp\u00E9riment\u00E9 ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Allemagne, au dessus de quel taux d\u2019alcool dans le sang consid\u00E8re-t-on le d\u00E9lit comme \u00E9tant un crime ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "1,1 g/l",
+            "5 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour des courtes distances"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, la consommation de cocaine est-elle permise lorsque l\u2019on prend le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si l\u2019\u00E9tat de fatigue du conducteur l\u2019exige",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Allemagne, peut-on prendre le volant en \u00E9tant sous l\u2019influence d\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Oui, c\u2019est plus marrant",
+            "Oui, les jours de f\u00EAte",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Allemagne, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la morphine ?",
+        "image": "",
+        "answers": [
+            "Oui, c\u2019est sans incidence sur la conduite",
+            "Oui, mais en roulant prudemment",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Allemagne, la consommation d\u2019amph\u00E9tamines est-elle autoris\u00E9e lorsque l\u2019on prend le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, moyennant une prescription m\u00E9dicale"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, peut-on prendre le volant si l\u2019on a consomm\u00E9 du cannabis mais \u00E9galement de la cocaine pour en contrebalancer les effets ?",
+        "image": "",
+        "answers": [
+            "Oui, c\u2019est vivement conseill\u00E9",
+            "Non, c\u2019est ill\u00E9gal",
+            "Oui, si on a l\u2019habitude"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, peut-on circuler sur une bande d\u2019arr\u00EAt d\u2019urgence ?",
+        "image": "",
+        "answers": [
+            "Oui, mais rapidement",
+            "Oui, mais lentement",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Allemagne, peut-on faire une pause cigarette sur une bande d\u2019arr\u00EAt d\u2019urgence ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, mais pas plus d\u2019une fois toutes les 2 heures"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Allemagne, que signifie un feu rouge en forme de croix ?",
+        "image": "",
+        "answers": [
+            "Il faut s\u2019arr\u00EAter",
+            "Interdiction de circuler sur la bande concern\u00E9e",
+            "Interdit de s\u2019arr\u00EAter"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, une voiture peut-elle circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si la circulation est dense",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Allemagne, le conducteur d\u2019une mobylette doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, sauf si celle-ci ne d\u00E9passe pas les 20 km/h",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, un cycliste doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Allemagne, le conducteur d\u2019une moto avec side-car doit-il porter un casque de protection ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Pas si son passager en porte un"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Allemagne, le conducteur d\u2019une moto \u00E0 3 roues doit-il porter un casque en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement s\u2019il d\u00E9passe les 110 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Allemagne, pour t\u00E9l\u00E9phoner, au volant, le kit mains libres est",
+        "image": "",
+        "answers": [
+            "Tol\u00E9r\u00E9",
+            "Interdit",
+            "Obligatoire"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Italie, \u00E0 quelle vitesse maximum peut-on circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "On ne dit pas \u00E0 un italien \u00E0 quelle vitesse il peut rouler"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Italie, quelle est la vitesse maximum en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "50 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Italie, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "100 km/h",
+            "110 km/h",
+            "Un bus ne peut pas circuler sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Italie, \u00E0 quelle vitesse pouvez-vous rouler en moto, en zone rurale ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "Piano piano"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Italie, comment doit-on installer un enfant dans une voiture ?",
+        "image": "",
+        "answers": [
+            "Dans le coffre",
+            "Sur un si\u00E8ge enfant ad\u00E9quat",
+            "Sur les genoux du conducteur"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Italie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur ayant moins d\u2019un an d\u2019exp\u00E9rience ?",
+        "image": "",
+        "answers": [
+            "0,0g/l",
+            "0,2g/l",
+            "0,5g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Italie, \u00E0 partir de quel taux d\u2019alcool\u00E9mie un conducteur de voiture peut-il se faire verbaliser ?",
+        "image": "",
+        "answers": [
+            "0,1 g/l",
+            "0,3 g/l",
+            "0,6 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Italie, \u00E0 partir de quel \u00E2ge peut-on consommer du cannabis au volant ?",
+        "image": "",
+        "answers": [
+            "18 ans",
+            "21 ans",
+            "Jamais"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Italie, \u00E0 quelle vitesse maximum peut-on rouler si l\u2019on a consomm\u00E9 du cannabis avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "On ne peut pas prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis",
+            "17 km/h",
+            "120 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Italie, pour quels usagers les amph\u00E9tamines sont-elles vivement conseill\u00E9es ?",
+        "image": "",
+        "answers": [
+            "Les plus jeunes",
+            "Aucun. C\u2019est interdit",
+            "Les plus \u00E2g\u00E9s"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Italie, peut-on circuler en voiture si l\u2019on est sous l\u2019influence d\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si on n\u2019en a consomm\u00E9 qu\u2019un seul"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Italie, que risque-t-on si on roule sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Jusqu\u2019\u00E0 1500\u20AC d\u2019amende",
+            "Jusqu\u2019\u00E0 3 mois de prison",
+            "Jusqu\u2019\u00E0 1 an de retrait de permis"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, \u00E0 quelle vitesse un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "70 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, \u00E0 quelle vitesse maximum un v\u00E9hicule de transport de plus de 3,5t peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "Pas trop vite",
+            "65 km/h",
+            "75 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, \u00E0 quelle vitesse maximum peut-on circuler en moto, en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "85 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, s\u2019il a moins de 21 ans",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le passager avant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement si le conducteur l\u2019exige",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour les passagers assis \u00E0 l\u2019arri\u00E8re d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019ils sont au nombre de 3"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Luxembourg, doit-on porter sa ceinture de s\u00E9curit\u00E9 lorsque l\u2019on fait une marche arri\u00E8re ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Luxembourg, peut-on \u00EAtre exempt\u00E9 du port de la ceinture pour raison m\u00E9dicale ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en cas d\u2019allergie au tissu de la ceinture",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, les pompiers en intervention doivent-ils mettre leur ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si leur v\u00E9hicule d\u00E9passe les 100 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, quel est le taux d\u2019alcool\u00E9mie maximum tol\u00E9r\u00E9 pour un conducteur de voiture standard",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, peut-on prendre le volant sous morphine ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sous prescription m\u00E9dicale"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Luxembourg, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, mais en roulant prudemment"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, la prise d\u2019amph\u00E9tamines est-elle autoris\u00E9e pour un usager, sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, s\u2019il roule \u00E0 moins de 90 km/h",
+            "Ni sur l\u2019autoroute, ni sur une autre route"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, \u00E0 partir de quel \u00E2ge peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la cocaine ?",
+        "image": "",
+        "answers": [
+            "Jamais",
+            "A partir de 21 ans",
+            "A partir de 31 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, peut-on consommer de l\u2019ecstasy au volant, moyennant une prescription m\u00E9dicale ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui mais uniquement le week-end",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, peut-on circuler sur une voie ferm\u00E9e pour cause de travaux ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si on est un r\u00E9sident",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, peut-on pique-niquer sur une bande d\u2019arr\u00EAt d\u2019urgence d\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Uniquement pendant les vacances",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, lors des longs trajets sur l\u2019autoroute, peut-on se d\u00E9tendre les jambes sur la bande d\u2019arr\u00EAt d\u2019urgence ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement pendant les p\u00E9riodes de d\u00E9parts en vacances"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, la police en intervention a-t-elle le droit de circuler sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Non. La loi s\u2019applique \u00E0 tout le monde",
+            "Oui",
+            "Uniquement en marche arri\u00E8re"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Luxembourg, un bus peut-il circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui mais en ne roulant pas \u00E0 plus de 30 km/h",
+            "Oui"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, le port du casque est-il obligatoire sur une mobylette ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, le port du casque est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, pour les conducteurs de moins de 21 ans",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E9quip\u00E9e d\u2019un side-car ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il transporte un passager"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Luxembourg, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement sur l\u2019autoroute",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Luxembourg, un conducteur de quad doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, s\u2019il n\u2019a pas de permis",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Luxembourg, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il a moins de 6 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, quelle est la limitation de vitesse dans les agglom\u00E9rations ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, quelle est la vitesse maximale autoris\u00E9e sur une autoroute ?",
+        "image": "",
+        "answers": [
+            "100 km/h",
+            "120 km/h",
+            "Super vite"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Espagne, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour un conducteur de voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, pour les conducteurs de moins de 21 ans",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire \u00E0 l\u2019arri\u00E8re d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement pour les enfants",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Espagne, un conducteur de voiture doit-il mettre sa ceinture lorsqu\u2019il va en marche arri\u00E8re ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si sa vitesse d\u00E9passe les 80 km/h",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Espagne, un chauffeur de taxi doit-il mettre sa ceinture de s\u00E9curit\u00E9 en zone urbaine ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il est en \u00E9tat d\u2019ivresse"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, un passager de taxi, mesurant moins de 135cm, doit-il mettre sa ceinture \u00E0 l\u2019arri\u00E8re du v\u00E9hicule, en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement s\u2019il est turbulent"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Espagne, un moniteur d\u2019auto \u00E9cole doit-il porter sa ceinture lorsqu\u2019il est en service ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si son \u00E9l\u00E8ve est mauvais",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Espagne, que fait-on en cas de feu orange ?",
+        "image": "",
+        "answers": [
+            "On fonce !",
+            "On s\u2019arr\u00EAte si on en a le temps",
+            "On s\u2019arr\u00EAte en actionnant son frein \u00E0 main"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Espagne, que risque-t-on si l\u2019on est pris en train de conduire sous l\u2019influence de drogues ?",
+        "image": "",
+        "answers": [
+            "500\u20AC d\u2019amende et 6 points en moins sur le permis",
+            "1000\u20AC d\u2019amende et 10 points en moins sur le permis",
+            "5000\u20AC d\u2019amende et 2 ans de retrait de permis"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, la consommation duquel de ces substances est interdite lorsque l\u2019on prend le volant ?",
+        "image": "",
+        "answers": [
+            "L\u2019aspirine",
+            "Les amph\u00E9tamines",
+            "Les bonbons \u00E0 la menthe"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Espagne, \u00E0 partir de quel \u00E2ge peut-on prendre le volant en ayant consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "18 ans",
+            "Jamais",
+            "21 ans"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Espagne, apr\u00E8s l\u2019absorption de combien de pilules d\u2019ecstasy peut-on prendre le volant ?",
+        "image": "",
+        "answers": [
+            "1",
+            "3",
+            "Aucune"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Espagne, une personne \u00E2g\u00E9e de plus de 65 ans, souffrant de rhumatismes, peut-elle prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, mais pas trop"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, la consommation de drogues est-elle permise pour les conducteurs de motos \u00E0 4 roues ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si le conducteur porte un casque",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Espagne, que risquez-vous si vous circulez en voiture sur une voie r\u00E9serv\u00E9e \u00E0 d\u2019autres v\u00E9hicules ?",
+        "image": "",
+        "answers": [
+            "200\u20AC d\u2019amende",
+            "La confiscation imm\u00E9diate du v\u00E9hicule",
+            "Une s\u00E9v\u00E8re r\u00E9primande"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Espagne, un conducteur de quad doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "C\u2019est recommand\u00E9",
+            "C\u2019est interdit",
+            "C\u2019est obligatoire"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Espagne, le conducteur d\u2019une ambulance doit-il porter un casque, en intervention ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en zone rurale"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Espagne, le pilote d\u2019une moto \u00E0 2 roues doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, si les 3 roues sont motrices",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, \u00E0 quelle vitesse (en km/h) une voiture peut-elle rouler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "48 km/h",
+            "58 km/h",
+            "68 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, \u00E0 quelle vitesse (en km/h) une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "92 km/h",
+            "102 km/h",
+            "112 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, \u00E0 quelle vitesse (en km/h) une voiture tractant une caravane peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "38 km/h",
+            "48 km/h",
+            "58 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, \u00E0 quelle vitesse une voiture tractant une caravane peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "87 km/h",
+            "96 km/h",
+            "137 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, \u00E0 quelle vitesse (en km/h) un bus peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, \u00E0 quelle vitesse une moto peut-elle circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "70 km/h",
+            "Une moto ne peut pas circuler sur une piste cyclable"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, le conducteur d\u2019une voiture allant en marche arri\u00E8re doit-il mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement en agglom\u00E9ration",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, les passagers assis \u00E0 l\u2019arri\u00E8re d\u2019une voiture doivent-ils mettre leur ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement si la vitesse du v\u00E9hicule d\u00E9passe les 112 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, le conducteur d\u2019un camion de pompiers doit-il mettre sa ceinture, en intervention ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il a peur de la vitesse"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, un chauffeur de taxi doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement pendant les heures de pointe",
+            "Oui"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, le conducteur d\u2019un v\u00E9hicule de livraison effectuant des arr\u00EAts tous les 50 m\u00E8tres doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si les marchandises qu\u2019il transporte sont dangereuses",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, est-il possible d\u2019obtenir une exemption du port de la ceinture de s\u00E9curit\u00E9 via un certificat m\u00E9dical ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, \u00E0 la condition qu\u2019on ne conduise pas",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,3 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur de poids lourd ?",
+        "image": "",
+        "answers": [
+            "0,8 g/l",
+            "0,5 g/l",
+            "0 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, peut-on conduire apr\u00E8s avoir pris du cannabis ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, mais pas trop",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, peut-on conduire apr\u00E8s avoir consomm\u00E9 de l\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E7a donne plein d\u2019\u00E9nergie",
+            "Non",
+            "Uniquement le week-end et les jours f\u00E9ri\u00E9s"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, peut-on conduire apr\u00E8s avoir consomm\u00E9 des amph\u00E9tamines ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, moyennant l\u2019accord du pharmacien"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la morphine ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement si on ne circule que sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, un v\u00E9hicule capable de transporter plus de 8 passagers, mais qui n\u2019est pas un bus, a-t-il le droit de circuler sur une bande r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement le week-end",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, peut-on garer sa voiture sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, mais pas longtemps"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, un cycliste peut-il emprunter une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, en dehors des heures de pointe",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, une moto peut-elle emprunter une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, si les chauffeurs de bus sont en gr\u00E8ve",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, une moto \u00E9quip\u00E9e d\u2019un side-car peut-elle circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si elle ne transporte pas de passager"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, les v\u00E9hicules de transport de marchandises, dont le poids exc\u00E8de les 7,5t, peut-il circuler sur la bande de droite, sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement la nuit"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, un conducteur de v\u00E9lomoteur doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement s\u2019il gr\u00EAle",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, le port du casque sur un v\u00E9lo est",
+        "image": "",
+        "answers": [
+            "fortement recommand\u00E9",
+            "strictement interdit",
+            "absolument obligatoire"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, le port du casque sur une moto \u00E0 3 roues est",
+        "image": "",
+        "answers": [
+            "obligatoire",
+            "ridicule",
+            "recommand\u00E9"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, le port du casque sur une moto \u00E9quip\u00E9e d\u2019un side-car est",
+        "image": "",
+        "answers": [
+            "interdit",
+            "obligatoire",
+            "recommand\u00E9"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Royaume-Uni, un conducteur de quad doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, s\u2019il circule sur l\u2019autoroute",
+            "Oui"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Royaume-Uni, t\u00E9l\u00E9phoner avec un kit mains libres est",
+        "image": "",
+        "answers": [
+            "obligatoire",
+            "interdit",
+            "tol\u00E9r\u00E9"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Royaume-Uni, t\u00E9l\u00E9phoner au volant sans kit mains libres est",
+        "image": "",
+        "answers": [
+            "obligatoire",
+            "interdit",
+            "d\u00E9conseill\u00E9"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, \u00E0 quelle vitesse maximum peut-on circuler sur l\u2019autoroute, en voiture ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "110 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, \u00E0 quelle vitesse maximum peut-on circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, \u00E0 quelle vitesse maximum peut-on circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, \u00E0 quelle vitesse un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, \u00E0 quelle vitesse les v\u00E9hicules de plus de 3,5t peuvent-ils circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, \u00E0 quelle vitesse maximum un v\u00E9lo peut-il circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "20 km/h",
+            "30 km/h",
+            "Il n\u2019y a pas de limite"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, le port de la ceinture est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement pour les conducteurs de moins de 21 ans",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, un enfant de plus de 3 ans doit-il mettre sa ceinture dans un taxi ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Si le chauffeur l\u2019exige",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, les conducteurs de v\u00E9hicules de livraisons effectuant des haltes tous les 100 m\u00E8tres ou moins, doivent-ils mettre leur ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement pendant les heures de pointe",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, l\u2019utilisation des si\u00E8ges adapt\u00E9s est-elle obligatoire pour le transport des enfants ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les enfants difficiles"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, doit-on mettre sa ceinture si l\u2019on circule sur un lac gel\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Cela d\u00E9pend de l\u2019\u00E9paisseur de la glace"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, doit-on mettre sa ceinture si l\u2019on circule sur une route cr\u00E9\u00E9e sur une mer gel\u00E9e ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si on ne sait pas nager"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, que signifie un feu vert ?",
+        "image": "",
+        "answers": [
+            "On peut passer",
+            "For\u00EAt \u00E0 proximit\u00E9",
+            "On doit s\u2019arr\u00EAter"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, que signifie un feu vert clignotant ?",
+        "image": "",
+        "answers": [
+            "Il va bient\u00F4t passer \u00E0 l\u2019orange",
+            "Il va bient\u00F4t passer au rouge",
+            "Il va bient\u00F4t passer au violet"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, que signifie un feu orange ?",
+        "image": "",
+        "answers": [
+            "On doit s\u2019arr\u00EAter si on le peut",
+            "On doit acc\u00E9l\u00E9rer",
+            "On doit s\u2019arr\u00EAter"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,3 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0,1 g/l",
+            "0,2 g/l",
+            "0,3 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0,0 g/l",
+            "0,1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, y a-t-il des voies r\u00E9serv\u00E9es aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Il n\u2019y a pas de bus en Estonie"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, les taxis peuvent-ils circuler sur les voies r\u00E9serv\u00E9es aux bus ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement les jours ou les transports en commun sont en gr\u00E8ve"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, les v\u00E9los sont-ils admis sur les voies r\u00E9serv\u00E9es aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui, si un panneau le stipule",
+            "Non",
+            "Oui, toujours"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, peut-on s\u2019arr\u00EAter sur la bande d\u2019arr\u00EAt d\u2019urgence pour prendre des photos du paysage ?",
+        "image": "",
+        "answers": [
+            "Oui, mais bri\u00E8vement",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, peut-on d\u00E9poser des passagers en s\u2019arr\u00EAtant sur une voie r\u00E9serv\u00E9e \u00E0 d\u2019autres v\u00E9hicules ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, \u00E0 condition de ne pas s\u2019arr\u00EAter compl\u00E8tement"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, un camion de livraison peut-il circuler sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute s\u2019il a une livraison urgente \u00E0 effectuer ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, \u00E0 condition de rouler plus vite que tout le monde"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, s\u2019il s\u2019agit d\u2019un mauvais cycliste",
+            "Oui"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, un conducteur de Segway doit-il mettre un casque s\u2019il circule sur la route ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, s\u2019il circule \u00E0 plus de 90 km/h",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, \u00E0 partir de quel \u00E2ge un cycliste n\u2019est plus oblig\u00E9 de porter un casque ?",
+        "image": "",
+        "answers": [
+            "11 ans et demi",
+            "16 ans",
+            "21 ans"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Estonie, un conducteur de mobylette doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Uniquement sur l\u2019autoroute",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Estonie, un conducteur de moto \u00E0 3 roues doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "S\u2019il pleut"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, apr\u00E8s combien d\u2019ann\u00E9es de conduite un conducteur de moto \u00E9quip\u00E9e d\u2019un side-car n\u2019est-il plus oblig\u00E9 de porter un casque ?",
+        "image": "",
+        "answers": [
+            "Il doit toujours en porter un",
+            "Jusqu\u2019\u00E0 21 ans",
+            "Jusqu\u2019\u00E0 55 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, t\u00E9l\u00E9phoner au volant sans kit mains libres, c\u2019est",
+        "image": "",
+        "answers": [
+            "interdit",
+            "obligatoire",
+            "fort peu appr\u00E9ci\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Estonie, t\u00E9l\u00E9phoner au volant en utilisant un kit mains libres, c\u2019est",
+        "image": "",
+        "answers": [
+            "interdit",
+            "tol\u00E9r\u00E9",
+            "rigolo"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, \u00E0 quelle vitesse maximum peut-on circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "De 80 km/h \u00E0 120 km/h. En fonction des panneaux",
+            "120 km/h",
+            "De 70 km/h \u00E0 130 km/h. Cela d\u00E9pend des saisons"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, \u00E0 quelle vitesse maximum peut-on circuler avec son caddie dans un supermarch\u00E9 ?",
+        "image": "",
+        "answers": [
+            "5 km/h",
+            "10 km/h",
+            "Il n\u2019y a pas de limite"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, \u00E0 quelle vitesse maximum une voiture tractant une remorque peut-elle circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, \u00E0 quelle vitesse maximum une moto peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "Il n\u2019y a pas de limites",
+            "50 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, \u00E0 quelle vitesse maximum un v\u00E9hicule de transport de marchandises de plus de 3,5t peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire, en voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en cas de mauvais temps"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour les chauffeurs de taxi ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019ils roulent \u00E0 plus de 100 km/h",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, la police est-elle oblig\u00E9e de mettre sa ceinture de s\u00E9curit\u00E9 en voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en intervention"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, le conducteur d\u2019un v\u00E9hicule effectuant des livraisons r\u00E9guli\u00E8res (tous les 100 m ou moins) doit-il mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si son patron l\u2019exige"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, les agents de la police des fronti\u00E8res doivent-ils mettre leur ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en cas de poursuite endiabl\u00E9e"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,11 g/l",
+            "0,22 g/l",
+            "0,33 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0,22 g/l",
+            "0,45 g/l",
+            "0 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "1 g/l",
+            "0 g/l",
+            "0,22 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,22 g/l",
+            "2 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, la consommation de cannabis avant de prendre le volant est",
+        "image": "",
+        "answers": [
+            "vivement conseill\u00E9e",
+            "interdite",
+            "vivement d\u00E9conseill\u00E9e"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, une personne de plus de 65 ans peut-elle consommer de la m\u00E9thadone avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, moyennant une prescription m\u00E9dicale",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, a-t-on le droit de consommer des amph\u00E9tamines avant de conduire un bus sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, mais pas trop"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, la police a-t-elle le droit de consommer de la cocaine avant de partir en intervention, en voiture ?",
+        "image": "",
+        "answers": [
+            "Oui, ils auront plus d\u2019\u00E9nergie",
+            "Non",
+            "Uniquement s\u2019ils ont beaucoup travaill\u00E9 la veille"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, combien de joints de cannabis maximum peut-on consommer avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "1",
+            "3",
+            "0"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, pour quels types de conducteurs la consommation d\u2019opium est-elle permise avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Les personnes \u00E2g\u00E9es",
+            "Les conducteurs stress\u00E9s",
+            "Personne"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, porter un casque de protection sur un v\u00E9lo, c\u2019est",
+        "image": "",
+        "answers": [
+            "conseill\u00E9",
+            "interdit",
+            "obligatoire"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, un conducteur de mobylette doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement hors agglom\u00E9ration"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Finlande, vous pilotez une moto \u00E0 3 roues, vous devez",
+        "image": "",
+        "answers": [
+            "porter un casque",
+            "porter un gilet r\u00E9fl\u00E9chissant",
+            "porter des lunettes"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Finlande, un conducteur de quad doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Uniquement sur les routes gel\u00E9es",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Finlande, le pilote d\u2019une moto \u00E9quip\u00E9e d\u2019un side-car doit-il porter un casque de protection ?",
+        "image": "",
+        "answers": [
+            "Uniquement s\u2019il transporte un passager",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, quelle est la vitesse minimum autoris\u00E9e pour un pi\u00E9ton sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "5 km/h",
+            "10 km/h",
+            "Un pi\u00E9ton n\u2019a rien faire sur l\u2019autoroute"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, \u00E0 quelle vitesse maximum une voiture peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "90 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, jusqu\u2019\u00E0 quelle vitesse peut-on circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, \u00E0 quelle vitesse maximum un camion de transport de marchandises, de plus de 3,5t, peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "85 km/h",
+            "95 km/h",
+            "115 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "40 km/h",
+            "50 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, jusqu\u2019\u00E0 quelle vitesse une camionnette peut-elle circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, le conducteur d\u2019un v\u00E9hicule postal doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, s\u2019il roule imprudemment"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, un chauffeur de taxi doit-il mettre sa ceinture lorsqu\u2019il transporte des passagers ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Si les passagers l\u2019exigent"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, une femme enceinte doit-elle mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Une femme enceinte ne peut pas conduire",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les hommes"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce,l\u2019utilisation du si\u00E8ge enfant, en voiture, est-elle obligatoire ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement si l\u2019enfant le demande"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, un vendeur de glaces ambulant doit-il mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement quand il est \u00E0 l\u2019arr\u00EAt"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,5 g/l",
+            "0,6 g/l",
+            "0,9 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur de bus ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,5 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour des policiers en fonction ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,5 g/l",
+            "1 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Oui, c\u2019est conseill\u00E9",
+            "Non, c\u2019est interdit",
+            "Oui c\u2019est tol\u00E9r\u00E9"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 des amph\u00E9tamines ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement le week-end",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui mais pas plus de 1"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, un agent des forces de l\u2019ordre a-t-il le droit de conduire sa voiture de service apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement moyennant l\u2019accord de ses sup\u00E9rieurs"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port du casque est-il obligatoire pour les conducteurs de tracteurs ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur la route"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port du casque est-il obligatoire pour les conducteurs de mobylette ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, s\u2019ils ne circulent pas sur une piste cyclable",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port du casque est-il obligatoire pour les conducteurs de motos \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en agglom\u00E9ration",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port du casque est-il obligatoire pour les patineurs \u00E0 roulettes ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, s\u2019ils circulent sur la route",
+            "Oui"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port du casque est-il obligatoire pour les cyclistes ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les cyclistes de moins de 16 ans"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Gr\u00E8ce, le port du casque est-il obligatoire pour les conducteurs de quad ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en zone rurale",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, jusqu\u2019\u00E0 quelle vitesse peut-on circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, jusqu\u2019\u00E0 quelle vitesse peut-on circuler en voiture, en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "70 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, jusqu\u2019\u00E0 quelle vitesse un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, jusqu\u2019\u00E0 quelle vitesse une moto peut-elle circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, jusqu\u2019\u00E0 quelle vitesse un tricycle d\u2019enfant peut-il circuler sur le trottoir ?",
+        "image": "",
+        "answers": [
+            "20 km/h",
+            "40 km/h",
+            "Il n\u2019y a pas de limites pour les tricycles d\u2019enfant"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, en agglom\u00E9ration, quelle est la vitesse maximum pour un v\u00E9hicule de transport de marchandises de plus de 3,5t ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "50 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, le conducteur d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement s\u2019il conduit en \u00E9tat d\u2019\u00E9bri\u00E9t\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, un chauffeur de taxi doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, entre 18h et 6h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, le passager d\u2019un bus est-il oblig\u00E9 de mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement hors agglom\u00E9ration",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, que signifie un feu orange ?",
+        "image": "",
+        "answers": [
+            "Arr\u00EAtez-vous",
+            "Arr\u00EAtez-vous si vous en avez le temps",
+            "Poursuivez votre chemin"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 une seule bi\u00E8re ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement le week-end"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, peut-on boire une bi\u00E8re en conduisant ?",
+        "image": "",
+        "answers": [
+            "Oui, si on n\u2019a pas bu avant",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "1 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0,44 g/l",
+            "0 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,5 g/l",
+            "0 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus en service ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, quelle amende risque-t-on si l\u2019on circule sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "10.000 HUF (32,3 euros)",
+            "100.000 HUF (323 euros)",
+            "1.000.000 HUF (3.230 euros)"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, une ambulance peut-elle circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en semaine"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, peut-on circuler en mobylette sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            ""
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, combien de points peut-on perdre sur son permis si on ne respecte pas les r\u00E8gles de voies r\u00E9serv\u00E9es \u00E0 des bus ?",
+        "image": "",
+        "answers": [
+            "3 points",
+            "5 points",
+            "10 points"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, peut-on circuler \u00E0 moto sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, en dehors des heures de circulation des bus"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, peut-on s\u2019arr\u00EAter sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute en cas de grosse fatigue ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, mais la pause ne doit pas d\u00E9passer les 15 minutes",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Hongrie, le port du casque est-il obligatoire pour un conducteur de mobylette ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si sa mobylette peut d\u00E9passer les 50 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, le port du casque est-il obligatoire pour un conducteur de moto ?",
+        "image": "",
+        "answers": [
+            "Oui, sauf s\u2019il circule sur une piste cyclable",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Hongrie, le port du casque est-il obligatoire pour un conducteur de voiture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement sur l\u2019autoroute",
+            "Oui"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, le port du casque est-il obligatoire pour un conducteur de moto avec side-car ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Hongrie, le conducteur d\u2019une moto \u00E0 3 roues doit-il porter un casque de protection ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il a moins de 21 ans",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, jusqu\u2019\u00E0 quelle vitesse un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, jusqu\u2019\u00E0 quelle vitesse un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, jusqu\u2019\u00E0 quelle vitesse une camionnette peut-elle circuler hors agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, quelle est la vitesse maximum autoris\u00E9e pour une voiture tractant une remorque sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, un policier en service doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, en cas de poursuite"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, est-il possible d\u2019\u00EAtre exempt\u00E9 du port de la ceinture de s\u00E9curit\u00E9 via un certificat m\u00E9dical ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement pour les passagers"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, un moniteur d\u2019auto-\u00E9cole en service doit-il mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Uniquement si son \u00E9l\u00E8ve est extr\u00EAmement mauvais",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, doit-on mettre sa ceinture au volant ?",
+        "image": "",
+        "answers": [
+            "Uniquement les enfants",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, doit-on mettre sa ceinture de s\u00E9curit\u00E9 si l\u2019on voyage \u00E0 l\u2019arri\u00E8re d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, une fl\u00E8che orange clignotante signifie",
+        "image": "",
+        "answers": [
+            "Vous pouvez tourner dans la direction de la fl\u00E8che mais devez c\u00E9der le passage aux autres v\u00E9hicules",
+            "Vous devez tourner dans cette direction",
+            "Il est interdit de tourner dans cette direction"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, que signifie un feu orange clignotant ?",
+        "image": "",
+        "answers": [
+            "Vous pouvez passer prudemment et en c\u00E9dant la priorit\u00E9, si n\u00E9cessaire",
+            "Il va bient\u00F4t passer au vert. Vous devez vous arr\u00EAter.",
+            "Le feu est en panne. Vous pouvez passer en respectant les r\u00E8gles de priorit\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, que signifie un feu vert ?",
+        "image": "",
+        "answers": [
+            "Que l\u2019on c\u00E9l\u00E8bre la Saint-Patrick",
+            "Que vous pouvez passer",
+            "Que pouvez tourner"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, que signifie un feu rouge ?",
+        "image": "",
+        "answers": [
+            "Vous devez vous arr\u00EAter",
+            "Vous devez vous arr\u00EAter sauf si aucun v\u00E9hicule ne circule sur la route transversale",
+            "Vous devez vous arr\u00EAter et \u00E9teindre votre moteur"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, que signifie un feu orange ?",
+        "image": "",
+        "answers": [
+            "Vous devez vous arr\u00EAter sauf si vous n\u2019en avez pas le temps",
+            "Vous pouvez passer",
+            "Vous devez passer"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur d\u00E9butant ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,5 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,5 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, que risque-t-on comme amende en cas de conduite en \u00E9tat d\u2019ivresse ?",
+        "image": "",
+        "answers": [
+            "Jusqu\u2019\u00E0 1000 euros",
+            "Jusqu\u2019\u00E0 3000 euros",
+            "Jusqu\u2019\u00E0 5000 euros"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, que risque-t-on comme peine en cas de conduite en \u00E9tat d\u2019ivresse ?",
+        "image": "",
+        "answers": [
+            "Jusqu\u2019\u00E0 6 mois de prison",
+            "Jusqu\u2019\u00E0 9 mois de prison",
+            "Jusqu\u2019\u00E0 12 mois de prison"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, quelle drogue est-il interdit de consommer lorsque l\u2019on prend le volant ?",
+        "image": "",
+        "answers": [
+            "L\u2019aspirine",
+            "Le cannabis",
+            "Le caf\u00E9"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, quelle drogue est-il interdit de consommer lorsque l\u2019on prend le volant ?",
+        "image": "",
+        "answers": [
+            "Les amph\u00E9tamines",
+            "Les boissons \u00E9nerg\u00E9tiques",
+            "La cigarette"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, quelle drogue est-il interdit de consommer lorsque l\u2019on prend le volant ?",
+        "image": "",
+        "answers": [
+            "Le piment rouge",
+            "La vitamine C",
+            "L\u2019ecstasy"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, quelle substance consid\u00E8re-t-on capable d\u2019alt\u00E9rer la concentration d\u2019un conducteur ?",
+        "image": "",
+        "answers": [
+            "La m\u00E9thadone",
+            "Le sucre",
+            "Le tabac"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, quelle substance consid\u00E8re-t-on capable d\u2019alt\u00E9rer la concentration d\u2019un conducteur ?",
+        "image": "",
+        "answers": [
+            "Le lait",
+            "L\u2019opium",
+            "Le sel"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, quelle substance consid\u00E8re-t-on capable d\u2019alt\u00E9rer la concentration d\u2019un conducteur ?",
+        "image": "",
+        "answers": [
+            "Le chocolat noir",
+            "Les c\u00E9r\u00E9ales",
+            "La cocaine"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, est-il permis de faire demi-tour sur une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement si on d\u00E9pass\u00E9 la bretelle de sortir de moins de 40 m\u00E8tres"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, est-il permis de d\u00E9poser quelqu\u2019un sur le bord d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si l\u2019on ne g\u00E8ne pas la circulation",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, sur quelle bande doit-on circuler sur l\u2019autoroute si l\u2019on ne d\u00E9passe pas ?",
+        "image": "",
+        "answers": [
+            "La bande de gauche",
+            "La bande de droite",
+            "La bande centrale"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, sur quelle voie de l\u2019autoroute doivent circuler les voitures tractant des caravanes et ne pouvant d\u00E9passer les 80 km/h ?",
+        "image": "",
+        "answers": [
+            "Toutes",
+            "Celle de gauche",
+            "Celle de droite"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, peut-on circuler en mobylette sur la voie d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si le trafic est dense"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, peut-on marcher sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui, pour se d\u00E9tendre les jambes pendant un court instant",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, le port du casque pour les cyclistes est",
+        "image": "",
+        "answers": [
+            "recommand\u00E9",
+            "interdit",
+            "fortement d\u00E9conseill\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, le passager d\u2019une moto doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Pas si la moto circule sur une piste cyclable"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Seulement le week-end"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Uniquement s\u2019il conduit en \u00E9tat d\u2019\u00E9bri\u00E9t\u00E9",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, le port du casque est-il obligatoire pour le passager d\u2019une moto \u00E9quip\u00E9e d\u2019un side-car ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si le passager est un enfant de moins de 12 ans",
+            "Non"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, le port du casque est-il obligatoire pour le conducteur d\u2019une voiture d\u00E9capotable sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement s\u2019il pleut"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Irlande, peut-on t\u00E9l\u00E9phoner au volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, en utilisant un kit mains libres"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, par combien estime-t-on que les risques d\u2019accident sont multipli\u00E9s lorsque l\u2019on t\u00E9l\u00E9phone au volant ?",
+        "image": "",
+        "answers": [
+            "Par 2",
+            "Par 3",
+            "Par 4"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, \u00E0 combien peut s\u2019\u00E9lever l\u2019amende pour l\u2019utilisation d\u2019un t\u00E9l\u00E9phone au volant ?",
+        "image": "",
+        "answers": [
+            "500 euros",
+            "1000 euros",
+            "2000 euros"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Irlande, le passager arri\u00E8re d\u2019un v\u00E9hicule peut-il t\u00E9l\u00E9phoner sans kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si le v\u00E9hicule est \u00E0 l\u2019arr\u00EAt"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, en cas d\u2019urgence, on peut appeler des num\u00E9ros d\u2019urgence sp\u00E9cifiques. Quels sont-ils ?",
+        "image": "",
+        "answers": [
+            "Le 112 ou le 999",
+            "Le 444 ou le 333",
+            "Le 2 ou le 3"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Irlande, avec quels accessoires doit-on obligatoirement \u00E9quiper son v\u00E9lo ?",
+        "image": "",
+        "answers": [
+            "Une sonnette, une lampe blanche devant et une lampe rouge \u00E0 l\u2019arri\u00E8re",
+            "Une sonnette, un porte-bagages et une lampe clignotante",
+            "Une boussole, une sonnette et une pompe \u00E0 v\u00E9lo"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie,quelle est la vitesse maximum tol\u00E9r\u00E9e pour une voiture en agglom\u00E9ration",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lettonie,quelle est la vitesse maximum tol\u00E9r\u00E9e pour une moto sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie,quelle est la vitesse maximum tol\u00E9r\u00E9e pour un v\u00E9hicule de plus de 7,5t en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "40 km/h",
+            " 50 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lettonie,quelle est la vitesse maximum tol\u00E9r\u00E9e pour un v\u00E9hicule de plus de 7,5t en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie,quelle est la vitesse maximum tol\u00E9r\u00E9e pour un v\u00E9hicule de moins de 7,5t en zone rurale ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lettonie, le conducteur d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en agglom\u00E9ration"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,5 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lettonie, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur d\u00E9butant ? (moins de 2 ans de conduite)",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lettonie, quel est le taux d\u2019alcool dans le sang maximum pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0,5 g/l",
+            "0,7 g/l",
+            "0,9 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, quel est le taux d\u2019alcool dans le sang maximum pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0,1 g/l",
+            "0,5 g/l",
+            "0,7 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lettonie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui mais pas trop, quand m\u00EAme"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Uniquement le week-end et les jours f\u00E9ri\u00E9s",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lettonie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la cocaine ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement en cas de trajets d\u00E9passant les 100 km",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lettonie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la m\u00E9thadone ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, moyennant un certificat m\u00E9dical"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 des bonbons \u00E0 la menthe ?",
+        "image": "",
+        "answers": [
+            "Oui, si l\u2019on n\u2019est pas seul dans le v\u00E9hicule",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lettonie, un pompier peut-il consommer du cannabis avant de prendre le volant de son camion ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il est stress\u00E9",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lettonie, peut-on d\u00E9poser un passager, en voiture, sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, en dehors des heures de circulation des bus"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, un cycliste doit-il porter un casque de protection ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il ne sait pas rouler \u00E0 v\u00E9lo"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, un cycliste \u00E2g\u00E9 de 6 ans doit-il porter un casque de protection ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il circule \u00E0 plus de 60 km/h",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lettonie, peut-on t\u00E9l\u00E9phoner au volant sans kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui mais en gardant les yeux ouverts"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lettonie, quel \u00E9quipement doit-on obligatoirement trouver dans une voiture ?",
+        "image": "",
+        "answers": [
+            "Un extincteur, un triangle de pr\u00E9signalisation et une trousse de premiers secours",
+            "Un extincteur, un pneu de rechange et une lampe de poche",
+            "Un gilet r\u00E9fl\u00E9chissant, une trousse de secours et un d\u00E9fibrillateur"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, \u00E0 quelle vitesse maximum un conducteur exp\u00E9riment\u00E9 (plus de 2 ans de conduite) peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "140 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, \u00E0 quelle vitesse maximum un conducteur d\u00E9butant (moins de 2 ans de conduite) peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "90 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, jusqu\u2019\u00E0 quelle vitesse peut-on circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "40 km/h",
+            "50 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, jusqu\u2019\u00E0 quelle vitesse peut-on circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, jusqu\u2019\u00E0 quelle vitesse un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, jusqu\u2019\u00E0 quelle vitesse un v\u00E9hicule de plus de 3,5t peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, doit-on mettre sa ceinture de s\u00E9curit\u00E9 au volant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si on est ivre"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, doit-on mettre sa ceinture de s\u00E9curit\u00E9 lorsque l\u2019on fait marche arri\u00E8re ?",
+        "image": "",
+        "answers": [
+            "Uniquement si la vitesse d\u00E9passe les 70 km/h",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, doit-on mettre sa ceinture de s\u00E9curit\u00E9 lorsque l\u2019on circule dans un parking ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement si la vitesse d\u00E9passe les 100 km/h",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, que signifie une fl\u00E8che verte \u00E0 droite d\u2019un feu rouge ?",
+        "image": "",
+        "answers": [
+            "Que vous pouvez tourner tout en laissant la priorit\u00E9 aux pi\u00E9tons",
+            "Que vous pourrez tourner d\u00E8s que le feu sera vert",
+            "Que personne ne peut tourner en direction de la fl\u00E8che"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,4 g/l",
+            "0,6 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur d\u00E9butant ? (moins de 2 ans de conduite)",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, quel est le taux d\u2019alcool dans le sang maximum pour le conducteur d\u2019un v\u00E9hicule de plus de 3,5t ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, quel est le taux d\u2019alcool dans le sang maximum pour le conducteur d\u2019un v\u00E9hicule de plus de 9 places ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,4 g/l",
+            "0,6 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, quel est le taux d\u2019alcool dans le sang maximum pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur de voiture de plus de 65 ans ?",
+        "image": "",
+        "answers": [
+            "A cet \u00E2ge-la, il n\u2019y a plus de limite",
+            "0,2 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement si on a l\u2019habitude"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Uniquement entre le vendredi soir et le dimanche soir",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la cocaine ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si on a plus de 5 ans d\u2019exp\u00E9rience de conduite",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la m\u00E9thadone ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, moyennant prescription m\u00E9dicale"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019aspirine ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E0 condition d\u2019attendre 15 minutes",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, un policier peut-il consommer du cannabis avant de prendre le volant de son v\u00E9hicule de service ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement en agglom\u00E9ration",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, pour quels v\u00E9hicules sont r\u00E9serv\u00E9es les voies signal\u00E9es par la lettre \u201CA\" ?",
+        "image": "",
+        "answers": [
+            "Les transports publics, les mobylettes et les v\u00E9los",
+            "Les tracteurs et les v\u00E9hicules de chantier",
+            "Les ambulances, les camions de pompiers et les voitures de police"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, les taxis peuvent-ils circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si cela est mentionn\u00E9 avec le mot \u201CTAKSI\u201D"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, le port du casque est-il obligatoire pour un cycliste de plus de 18 ans ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il est maladroit"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, le port du casque est-il obligatoire pour un cycliste de moins de 18 ans ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il n\u2019est pas accompagn\u00E9 par un adulte",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, le port du casque est-il obligatoire pour un conducteur de mobylette ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, sauf s\u2019il circule sur une piste cyclable",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Lituanie, le port du casque est-il obligatoire pour le conducteur d\u2019une moto avec side-car ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si son passager est turbulent"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Lituanie, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Uniquement en zone rurale",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Lituanie, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, sauf s\u2019il circule dans la for\u00EAt",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, \u00E0 quelle vitesse maximum un conducteur de voiture peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, \u00E0 quelle vitesse maximum un conducteur de voiture peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, \u00E0 quelle vitesse maximum un conducteur de voiture peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "80 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "40 km/h",
+            "50 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, \u00E0 quelle vitesse maximum un v\u00E9hicule de transport de marchandises de plus de 3,5t peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, le conducteur d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, entre 18h et 6h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, un conducteur faisant une marche arri\u00E8re doit-il mettre sa ceinture ?",
+        "image": "",
+        "answers": [
+            "Uniquement s\u2019il fait marche arri\u00E8re sur l\u2019autoroute",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, un chauffeur de taxi doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement s\u2019il circule, avec des passagers, \u00E0 plus de 120 km/h",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, le conducteur d\u2019un camion de pompiers doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement s\u2019il part \u00E9teindre un incendie"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, le conducteur d\u2019un camion de livraison effectuant des haltes r\u00E9guli\u00E8res doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Uniquement si son patron l\u2019exige",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, les membres des forces de police doivent-ils mettre leur ceinture de s\u00E9curit\u00E9 en intervention ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement s\u2019ils font des d\u00E9rapages",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, un feu vert signifie que",
+        "image": "",
+        "answers": [
+            "on peut passer",
+            "on doit s\u2019arr\u00EAter",
+            "on doit ralentir avant de passer"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, un feu orange allum\u00E9 en m\u00EAme temps qu\u2019un feu rouge signifie",
+        "image": "",
+        "answers": [
+            "que le feu va bient\u00F4t passer au vert",
+            "que le feu va bient\u00F4t passer au rouge",
+            "que le feu va bient\u00F4t s\u2019\u00E9teindre"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, un feu orange signifie",
+        "image": "",
+        "answers": [
+            "qu\u2019il va bient\u00F4t passer au vert",
+            "qu\u2019il va bient\u00F4t passer au rouge",
+            "qu\u2019il va bient\u00F4t exploser"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,8 g/l",
+            "1 g/l",
+            "1,2 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur novice (moins de 2 ans de conduite) ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,8 g/l",
+            "1 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, quel est le taux d\u2019alcool dans le sang maximum pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur de camion de plus de 3,5t ?",
+        "image": "",
+        "answers": [
+            "0,8 g/l",
+            "1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, apr\u00E8s 22h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 des amph\u00E9tamines ?",
+        "image": "",
+        "answers": [
+            "Oui, moyennant un certificat m\u00E9dical",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement les jours de grosse f\u00EAte",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la m\u00E9thadone ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si on fait une halte toutes les 2 heures"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 des boissons \u00E9nerg\u00E9tiques ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E0 condition de peser plus de 60 kg",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019opium ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si on ne circule pas \u00E0 plus de 40 km/h",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, un chariot tir\u00E9 par des chevaux peut-il circuler sur une voie r\u00E9serv\u00E9e au bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en cas de poursuite avec des indiens"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, un v\u00E9lo peut-il circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il a un gyrophare",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, une ambulance peut-elle circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, \u00E0 condition qu\u2019elle accepte de prendre des passagers",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, un camion de pompiers en intervention peut-il circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement hors des heures de pointe"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, peut-on faire un barbecue sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il n\u2019y a pas trop de fum\u00E9e",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, peut-on faire son jogging sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui mais rapidement",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, un enfant install\u00E9 dans un si\u00E8ge, \u00E0 l\u2019arri\u00E8re d\u2019un v\u00E9lo doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en cas de gr\u00EAle"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Uniquement en cas de mauvais temps",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, le port du casque est-il obligatoire pour le conducteur d\u2019une mobylette ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, si sa mobylette peut rouler \u00E0 plus de 60 km/h",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, le port du casque est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, s\u2019il conduit en \u00E9tat d\u2019\u00E9bri\u00E9t\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, le port du casque est-il obligatoire pour un automobiliste ?",
+        "image": "",
+        "answers": [
+            "Uniquement s\u2019il est vraiment tr\u00E8s maladroit",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "A Malte, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, sauf s\u2019il a un mot de sa maman qui dit le contraire",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "A Malte, peut-on t\u00E9l\u00E9phoner au volant de sa voiture sans kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si au moins une des mains tient le volant"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "A Malte, que doit obligatoirement porter un cycliste ?",
+        "image": "",
+        "answers": [
+            "Des pinces \u00E0 pantalon",
+            "Un gilet r\u00E9fl\u00E9chissant",
+            "Une lampe frontale"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, \u00E0 quelle vitesse maximum un conducteur de voiture peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "130 km/h",
+            "140 km/h",
+            "150 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, \u00E0 quelle vitesse maximum un conducteur de voiture peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "80 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, \u00E0 quelle vitesse maximum une moto peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "140 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, \u00E0 quelle vitesse maximum un v\u00E9hicule de plus de 3,5t peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, le conducteur d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, s\u2019il p\u00E8se moins de 50 kg"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, le passager avant d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Uniquement si la voiture ne dispose d\u2019aucun airbag",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, le passager arri\u00E8re d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement sur l\u2019autoroute",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, le passager d\u2019un bus du transport public doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si le chauffeur l\u2019exige"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,5 g/l",
+            "0,7 g/l",
+            "0,9 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur novice (moins de 5 ans de conduite) ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, quel est le taux d\u2019alcool dans le sang maximum pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, quel est le taux d\u2019alcool dans le sang maximum pour un conducteur de camion de plus de 3,5t ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,5 g/l",
+            "0,7 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, quel est le taux d\u2019alcool dans le sang maximum pour un enfant de moins de 16 ans, au volant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "Un enfant de cet \u00E2ge-l\u00E0 ne peut pas conduire"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 du cannabis ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si on roule \u00E0 moins de 50 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 des amph\u00E9tamines ?",
+        "image": "",
+        "answers": [
+            "Oui, si on porte un casque de protection",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de l\u2019ecstasy ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement le week-end",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, peut-on prendre le volant apr\u00E8s avoir consomm\u00E9 de la m\u00E9thadone ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si on n\u2019est pas seul dans le v\u00E9hicule"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, peut-on prendre le volant, en \u00E9tat d\u2019\u00E9bri\u00E9t\u00E9, le jour de son anniversaire ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, \u00E0 condition de ne pas manger du g\u00E2teau en m\u00EAme temps",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, quelle est la particularit\u00E9 des pistes cyclables avec des lignes continues ?",
+        "image": "",
+        "answers": [
+            "Seuls les cyclistes de moins de 14 ans peuvent y circuler",
+            "Qu\u2019aucun autre v\u00E9hicule ne peut y circuler",
+            "Les tracteurs peuvent y circuler"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, sur l\u2019autoroute, sur quelles bandes un v\u00E9hicule de transport de marchandises peut-il circuler ?",
+        "image": "",
+        "answers": [
+            "Toutes",
+            "La bande de droite et celle du milieu",
+            "La bande de droite et la bande d\u2019arr\u00EAt d\u2019urgence"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, le port du casque est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui s\u2019il a moins de 16 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, le port du casque est-il obligatoire pour le conducteur d\u2019un tracteur ?",
+        "image": "",
+        "answers": [
+            "Uniquement sur la route",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en pleine nature",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Aux Pays-Bas, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en agglom\u00E9ration"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, le port du casque est-il obligatoire pour un livreur de pizza en mobylette ?",
+        "image": "",
+        "answers": [
+            "Uniquement s\u2019il livre des pizzas au pepperoni",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Aux Pays-Bas, au volant, l\u2019utilisation du kit mains libres pour t\u00E9l\u00E9phoner est",
+        "image": "",
+        "answers": [
+            "Tol\u00E9r\u00E9",
+            "Interdit",
+            "S\u00E9v\u00E8rement r\u00E9primand\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Aux Pays-Bas, t\u00E9l\u00E9phoner au volant sans kit mains libres est",
+        "image": "",
+        "answers": [
+            "Encourag\u00E9",
+            "Interdit",
+            "Tol\u00E9r\u00E9"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, \u00E0 quelle vitesse maximum une moto peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "140 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "140 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, \u00E0 quelle vitesse maximum un v\u00E9hicule de transport de marchandises de plus de 3,5t peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, \u00E0 quelle vitesse maximum une voiture tractant une remorque peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "80 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, dans quel v\u00E9hicule le port de la ceinture n\u2019est-il pas obligatoire ?",
+        "image": "",
+        "answers": [
+            "Un taxi",
+            "Une voiture d\u00E9capotable",
+            "Une camionnette"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, dans quel v\u00E9hicule le port de la ceinture n\u2019est-il pas obligatoire ?",
+        "image": "",
+        "answers": [
+            "Une voiture \u00E9lectrique",
+            "Un bus",
+            "Un camion"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, \u00EAtes-vous en tort si votre voiture n\u2019est pas \u00E9quip\u00E9e de ceintures de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, sauf si vous vous tenez bien au volant",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, un policier en service doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en cas de poursuite "
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, une femme enceinte est-elle oblig\u00E9e de mettre sa ceinture de s\u00E9curit\u00E9, en voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Pas si elle est enceinte de jumeaux"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, quel corps de m\u00E9tier n\u2019est pas oblig\u00E9 de mettre sa ceinture de s\u00E9curit\u00E9 en service ?",
+        "image": "",
+        "answers": [
+            "Les convoyeurs de fonds",
+            "Les livreurs de pizza",
+            "Les marchands de glace"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, si le feu devient orange, que fait-on ?",
+        "image": "",
+        "answers": [
+            "On s\u2019arr\u00EAte si on en a le temps",
+            "On s\u2019arr\u00EAte",
+            "On passe"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,5 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,1 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de poids lourd ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,4 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, \u00E0 partir de quel \u00E2ge peut-on consommer du cannabis avant de prendre le volant",
+        "image": "",
+        "answers": [
+            "Jamais",
+            "16 ans",
+            "21 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, peut-on consommer des amph\u00E9tamines avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Si vraiment c\u2019est n\u00E9cessaire",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, peut-on consommer de l\u2019ecstasy avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, si on est accompagn\u00E9",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, peut-on consommer de la cocaine avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en cas de fatigue"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, peut-on fumer une cigarette avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Uniquement une cigarette blonde",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Pologne, peut-on consommer du caf\u00E9 avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Pas plus de 2 tasses",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, une voiture peut-elle circuler sur une voie r\u00E9serv\u00E9e aux transport publics ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si elle transporte des passagers"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, une moto peut-elle circuler sur une voie r\u00E9serv\u00E9e aux bus, en cas d\u2019embouteillages ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, \u00E0 condition de circuler plus rapidement que les bus",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il circule en dehors des pistes cyclables"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, le conducteur d\u2019une mobylette doit-il porter un casque ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, s\u2019il a moins de 18 ans",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Pologne, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur les routes \u00E0 3 bandes"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Pologne, t\u00E9l\u00E9phoner au volant est",
+        "image": "",
+        "answers": [
+            "interdit avec kit mains libres",
+            "interdit sans kit mains libres",
+            "interdit avec ou sans kit mains libres"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, \u00E0 quelle vitesse maximum peut circuler une voiture en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "70 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, \u00E0 quelle vitesse maximum peut circuler une voiture sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, \u00E0 quelle vitesse maximum peut circuler une voiture en zone rurale ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Portugal, \u00E0 quelle vitesse maximum peut circuler une moto en plein centre-ville ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "50 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, \u00E0 quelle vitesse maximum peut circuler un bus rempli de passagers, sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, \u00E0 quelle vitesse maximum peut circuler un v\u00E9hicule de transport de marchandises de plus de 3,5t en zone rurale ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Portugal, le port de la ceinture est-il obligatoire au volant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, sauf si la temp\u00E9rature d\u00E9passe les 35\u00B0C"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, les passagers d\u2019un bus doivent-ils mettre leur ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,5 g/l",
+            "0,7 g/l",
+            "0,9 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0,3 g/l",
+            "0,5 g/l",
+            "0,7 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0,1 g/l",
+            "0,3 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Portugal, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur de poids-lourd de plus de 7,5t",
+        "image": "",
+        "answers": [
+            "0,5 g/l",
+            "0,7 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0,3 g/l",
+            "0,5 g/l",
+            "0,7 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, peut-on consommer du cannabis avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il y a du soleil"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, peut-on consommer des amph\u00E9tamines avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui, si le temps est maussade",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, peut-on consommer de l\u2019ecstasy avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui mais pas plus de 2",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Portugal, peut-on consommer de la cocaine avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, \u00E0 condition de rouler \u00E0 plus de 120 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il circule \u00E0 plus de 80 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, le port du casque est-il obligatoire pour le conducteur d\u2019une mobylette ?",
+        "image": "",
+        "answers": [
+            "Uniquement en agglom\u00E9ration",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "Au Portugal, le port du casque est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, si sa moto peut d\u00E9passer les 100 km/h",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "Au Portugal, le port du casque est-il obligatoire pour le passager d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, sauf s\u2019il a un mot de ses parents qui stipule le contraire"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "Au Portugal, est-il permis de t\u00E9l\u00E9phoner au volant sans kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en agglom\u00E9ration"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, \u00E0 quelle vitesse maximum peut circuler une voiture en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, \u00E0 quelle vitesse maximum peut circuler une voiture sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "140 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, \u00E0 quelle vitesse maximum peut circuler une camionnette en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, \u00E0 quelle vitesse maximum peut circuler un bus en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, \u00E0 quelle vitesse maximum peut circuler un bus sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "100 km/h",
+            "110 km/h",
+            "120 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, \u00E0 quelle vitesse maximum peut circuler une moto sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, est-il obligatoire de mettre sa ceinture au volant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, sauf si on n\u2019en a pas envie"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, une femme enceinte est-elle oblig\u00E9e de mettre sa ceinture de s\u00E9curit\u00E9 au volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, sauf si elle circule \u00E0 moins de 50 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il transporte des passagers",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur de voiture ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "1 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur de moto ?",
+        "image": "",
+        "answers": [
+            "1 g/l",
+            "0 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour le passager d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "0,6 g/l",
+            "0,2 g/l",
+            "0 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,6 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un policier au volant de sa voiture de service ?",
+        "image": "",
+        "answers": [
+            "Il n\u2019y a aucune limite",
+            "0 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un marchand de glaces ambulant ?",
+        "image": "",
+        "answers": [
+            "0,6 g/l",
+            "0,2 g/l",
+            "0 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, peut-on consommer du cannabis avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement le week-end"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, peut-on consommer de la m\u00E9thadone avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Uniquement si on p\u00E8se plus de 80 kg",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, peut-on consommer de l\u2019ecstasy avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement les jours de f\u00EAte officiels",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, peut-on consommer des amph\u00E9tamines avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en agglom\u00E9ration"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, un m\u00E9decin peut-il prendre le volant apr\u00E8s avoir consomm\u00E9 des stup\u00E9fiants ?",
+        "image": "",
+        "answers": [
+            "Oui, en petite quantit\u00E9",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, une voiture peut-elle circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, en cas de trafic intense"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, une camionnette peut-elle circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si elle transporte des passagers"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, un bus des transports publics peut-il circuler sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, s\u2019il est en retard sur son horaire",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, le port du casque est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en cas de neige ou de fortes pluies"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il circule en dehors d\u2019une piste cyclable",
+            "Non mais il est recommand\u00E9",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, le port du casque est-il obligatoire pour le conducteur d\u2019une mobylette ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, jusqu\u2019\u00E0 l\u2019\u00E2ge de 21 ans",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement s\u2019il circule sur une autoroute ou une route nationale"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Roumanie, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il circule dans la nature ou dans les champs",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Roumanie, le port du casque est-il obligatoire pour un pi\u00E9ton, hors agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, en cas de tr\u00E8s mauvais temps",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Roumanie, pouvez-vous t\u00E9l\u00E9phoner au volant sans utiliser de kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui, si personne ne vous voit",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum une camionnette peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "120 km/h",
+            "130 km/h",
+            "140 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum un camion de transport de marchandises, de plus de 3,5t, peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "80 km/h",
+            "90 km/h",
+            "100 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, le conducteur d\u2019une voiture doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, s\u2019il a moins de 21 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, un chauffeur de taxi doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Uniquement en cas de mauvais temps",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, un instructeur d\u2019auto-\u00E9cole en service doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement en agglom\u00E9ration",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, un enfant de moins de 3 ans doit-il mettre sa ceinture \u00E0 l\u2019arri\u00E8re d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Non, il doit voyager dans un si\u00E8ge enfant adapt\u00E9",
+            "Oui",
+            "Il doit en mettre 2"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, un policier en service doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Uniquement dans le cadre d\u2019une poursuite se d\u00E9roulant \u00E0 plus de 100 km/h",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, quel feu pr\u00E9c\u00E8de le rouge ?",
+        "image": "",
+        "answers": [
+            "Le vert",
+            "L\u2019orange",
+            "L\u2019orange clignotant"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 partir de quel \u00E2ge peut-on boire au volant ?",
+        "image": "",
+        "answers": [
+            "A partir de 18 ans",
+            "A partir de 21 ans",
+            "Jamais"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,6 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur d\u00E9butant ?",
+        "image": "",
+        "answers": [
+            "0,9 g/l",
+            "0 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0,6 g/l",
+            "0,2 g/l",
+            "0 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de poids lourd ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,2 g/l",
+            "0,8 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0,6 g/l",
+            "0 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, peut-on consommer du cannabis avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Non, on doit le consommer en conduisant"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, peut-on consommer des amph\u00E9tamines avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui, si cela n\u2019alt\u00E8re pas la conduite",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, peut-on consommer de l\u2019ecstasy avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement le week-end \u00E0 partir de 22h",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, peut-on consommer de la cocaine avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement si on a plus de 21 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, peut-on consommer de la m\u00E9thadone avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E0 condition de ne pas conduire hors agglom\u00E9ration",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, un taxi peut-il circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, s\u2019il transporte des passagers"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, un v\u00E9hicule des forces de l\u2019ordre peut-il circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui, avec le gyrophare allum\u00E9",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, une voiture peut-elle d\u00E9passer un autre v\u00E9hicule en le faisant sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, \u00E0 condition d\u2019utiliser l\u2019avertisseur sonore"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, la police en intervention d\u2019urgence a-t-elle le droit de circuler sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute ?",
+        "image": "",
+        "answers": [
+            "Non, les policiers doivent descendre de leur v\u00E9hicule et courir",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, \u00E0 quelle vitesse maximum une moto peut-elle circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "50 km/h",
+            "Elle ne peut pas circuler sur une piste cyclable"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, le port du casque est-il obligatoire pour les cyclistes ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, pour les cyclistes de moins de 7 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, le port du casque est-il obligatoire pour le conducteur d\u2019une mobylette ?",
+        "image": "",
+        "answers": [
+            "Uniquement si le moteur de la mobylette a \u00E9t\u00E9 trafiqu\u00E9",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, le port du casque est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, sur l\u2019autoroute",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Uniquement hors agglom\u00E9ration",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Cela d\u00E9pend de la taille des roues",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slovaquie, peut-on t\u00E9l\u00E9phoner en voiture sans utiliser de kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, s\u2019il n\u2019existe pas de syst\u00E8me de kit mains libres pour son mod\u00E8le de portable"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slovaquie, peut-on t\u00E9l\u00E9phoner en voiture en utilisant un kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui, \u00E0 condition de circuler \u00E0 moins de 50 km/h",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slovaquie, le passager d\u2019une voiture peut-il t\u00E9l\u00E9phoner alors que la voiture circule sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, \u00E0 condition d\u2019ouvrir au moins une fen\u00EAtre",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "130 km/h",
+            "140 km/h",
+            "Il n\u2019y a aucune limite"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, \u00E0 quelle vitesse maximum une camionnette peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "100 km/h",
+            "110 km/h",
+            "120 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, \u00E0 quelle vitesse maximum un camion de transport de marchandises, de plus de 3,5t, peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, s\u2019il a moins de 16 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le passager avant d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Uniquement s\u2019il s\u2019agit d\u2019un animal de compagnie",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le passager arri\u00E8re d\u2018une voiture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui, s\u2019il est turbulent",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement s\u2019il est en \u00E9tat d\u2019\u00E9bri\u00E9t\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, une ambulance a-t-elle le droit de passer au feu rouge ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en agglom\u00E9ration"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,5 g/l",
+            "0,7 g/l",
+            "0,9 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "0,7 g/l",
+            "0 g/l",
+            "0,5 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "0 g/l",
+            "0,5 g/l",
+            "1 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on consommer du cannabis avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si on est jeune et dynamique"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on consommer des amph\u00E9tamines avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui, si on n\u2019exag\u00E8re pas",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on consommer de l\u2019opium avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, \u00E0 condition de ne pas conduire couch\u00E9",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on consommer de l\u2019ecstasy avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Oui, si on ne circule pas \u00E0 plus de 80 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on consommer de la m\u00E9thadone avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui, si le m\u00E9decin donne son accord \u00E9crit",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, un camion de transport de marchandises peut-il circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il actionne ses 4 clignotants",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, en hiver, peut-on s\u2019arr\u00EAter sur la bande d\u2019arr\u00EAt d\u2019urgence d\u2019une autoroute pour aller chercher un pull bien chaud dans son coffre ?",
+        "image": "",
+        "answers": [
+            "Oui, si la temp\u00E9rature est inf\u00E9rieure ou \u00E9gale \u00E0 0\u00B0C",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, un tracteur peut-il circuler sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui mais il doit accepter de prendre des passagers \u00E0 son bord",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port du casque de protection est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en zone rurale"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port du casque de protection est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Oui, s\u2019il a peur de la vitesse",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port du casque de protection est-il obligatoire pour un cycliste de plus de 18 ans ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non, sauf s\u2019il fait le casse-cou",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port du casque de protection est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en zone rurale et en \u00E9t\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Slov\u00E9nie, le port du casque de protection est-il obligatoire pour le conducteur d\u2019une tondeuse \u00E0 gazon \u00E0 4 roues ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Uniquement si le terrain est en pente",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on t\u00E9l\u00E9phoner au volant sans utiliser de kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si on a \u00E9teint l\u2019autoradio au pr\u00E9alable"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on t\u00E9l\u00E9phoner au volant si on utilise un kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement pendant les heures de bureaux",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Slov\u00E9nie, peut-on surfer sur internet au volant d\u2019un camion de transport de marchandises de plus de 7,5t ?",
+        "image": "",
+        "answers": [
+            "Oui, surtout si la marchandise est compos\u00E9e de smartphones",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, \u00E0 quelle vitesse maximum une voiture peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, \u00E0 quelle vitesse maximum une camionnette peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, \u00E0 quelle vitesse maximum un bus peut-il circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, \u00E0 quelle vitesse maximum un bus peut-il circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, \u00E0 quelle vitesse maximum un camion de transport de marchandises, de plus de 3,5t, peut-il circuler en zone rurale ?",
+        "image": "",
+        "answers": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, le port de la ceinture de s\u00E9curit\u00E9 est-il obligatoire pour le conducteur d\u2019une voiture ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement si les routes sont glissantes"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, le passager d\u2019un bus doit-il mettre sa ceinture de s\u00E9curit\u00E9 ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, une lumi\u00E8re jaune clignotante signifie",
+        "image": "",
+        "answers": [
+            "qu\u2019il faut s\u2019arr\u00EAter si on en a le temps",
+            "qu\u2019on doit acc\u00E9l\u00E9rer",
+            "qu\u2019on doit s\u2019arr\u00EAter"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur standard ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,4 g/l",
+            "0,6 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un conducteur novice ?",
+        "image": "",
+        "answers": [
+            "Il n\u2019y a aucune limite",
+            "0,2 g/l",
+            "0,4 g/l"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de bus ?",
+        "image": "",
+        "answers": [
+            "1 g/l",
+            "0,6 g/l",
+            "0,2 g/l"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, quel est le taux d\u2019alcool dans le sang maximum tol\u00E9r\u00E9 pour un chauffeur de taxi ?",
+        "image": "",
+        "answers": [
+            "0,2 g/l",
+            "0,4 g/l",
+            "0,6 g/l"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on consommer du cannabis avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en \u00E9t\u00E9"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on consommer des amph\u00E9tamines avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui mais il faut demander l\u2019avis d\u2019un pharmacien",
+            "Non",
+            "Oui"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on consommer de la cocaine avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui mais pas plus d\u2019un gramme",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on consommer de la m\u00E9thadone avant de prendre le volant ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Oui",
+            "Uniquement en agglom\u00E9ration"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, une mobylette peut-elle circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si le conducteur est \u00E2g\u00E9 de moins de 16 ans"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, une moto peut-elle circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "Oui mais il doit faire usage de son avertisseur sonore \u00E0 l\u2019approche de cyclistes",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, un v\u00E9lo peut-il circuler sur une piste cyclable ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en agglom\u00E9ration",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on stationner sur une voie r\u00E9serv\u00E9e aux bus ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Oui, mais pas trop longtemps",
+            "Non"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, le port du casque est-il obligatoire pour un cycliste ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, pour les cyclistes qui ont moins de 15 ans"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, le port du casque est-il obligatoire pour le conducteur d\u2019une moto ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement sur l\u2019autoroute"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, le port du casque est-il obligatoire pour le conducteur d\u2019une mobylette ?",
+        "image": "",
+        "answers": [
+            "Oui, si sa mobylette peut rouler \u00E0 plus de 50 km/h",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, le port du casque est-il obligatoire pour le conducteur d\u2019une moto \u00E0 3 roues ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en agglom\u00E9ration",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, le port du casque est-il obligatoire pour le conducteur d\u2019un quad ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Uniquement en hors-piste"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, le port du casque est-il obligatoire pour le conducteur d\u2019un v\u00E9lo tout-terrain, \u00E2g\u00E9 de plus de 15 ans ?",
+        "image": "",
+        "answers": [
+            "Uniquement hors agglom\u00E9ration",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on t\u00E9l\u00E9phoner au volant ?",
+        "image": "",
+        "answers": [
+            "Oui",
+            "Non",
+            "Oui, si on ne parle pas trop fort"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on t\u00E9l\u00E9phoner au volant sans kit mains libres ?",
+        "image": "",
+        "answers": [
+            "Oui, en tenant son t\u00E9l\u00E9phone entre les genoux",
+            "Oui",
+            "Non"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on t\u00E9l\u00E9phoner au volant d\u2019une camionnette, en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement en agglom\u00E9ration",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Su\u00E8de, peut-on t\u00E9l\u00E9phoner au volant, \u00E0 sa femme, sans utiliser de kit mains libres ou d\u2019oreillette ?",
+        "image": "",
+        "answers": [
+            "Non",
+            "Uniquement pour pr\u00E9venir d\u2019un retard",
+            "Oui"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Croatie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "130 km/h",
+            "140 km/h",
+            "Il n\u2019y a aucune limite"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Croatie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "40 km/h",
+            "50 km/h",
+            "60 km/h"
+        ],
+        "correct_answer": "2"
+    },
+    {
+        "question": "En Croatie, \u00E0 quelle vitesse maximum une camionnette peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "110 km/h",
+            "120 km/h",
+            "130 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Croatie, \u00E0 quelle vitesse maximum une voiture peut-elle circuler sur une route nationale ?",
+        "image": "",
+        "answers": [
+            "90 km/h",
+            "100 km/h",
+            "110 km/h"
+        ],
+        "correct_answer": "1"
+    },
+    {
+        "question": "En Croatie, \u00E0 quelle vitesse maximum une voiture tractant une caravane peut-elle circuler sur l\u2019autoroute ?",
+        "image": "",
+        "answers": [
+            "70 km/h",
+            "80 km/h",
+            "90 km/h"
+        ],
+        "correct_answer": "3"
+    },
+    {
+        "question": "En Croatie, \u00E0 quelle vitesse maximum une voiture tractant une caravane peut-elle circuler en agglom\u00E9ration ?",
+        "image": "",
+        "answers": [
+            "30 km/h",
+            "40 km/h",
+            "50 km/h"
+        ],
+        "correct_answer": "3"
+    }
+]

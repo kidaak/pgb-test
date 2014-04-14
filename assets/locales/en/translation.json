@@ -1,61 +1,110 @@
 {
-	"country": {
-		"austria": "Austria",
-		"belgium": "Belgium",
-		"bulgaria": "Bulgaria",
-		"cyprus": "Cyprus",
-		"czech_republic": "Czech Republic",
-		"denmark": "Denmark",
-		"estonia": "Estonia",
-		"finland": "Finland",
-		"france": "France",
-		"germany": "Germany",
-		"greece": "Greece",
-		"hungary": "Hungary",
-		"ireland": "Ireland",
-		"italy": "Italy",
-		"latvia": "Latvia",
-		"lithuania": "Lithuania",
-		"luxembourg": "Luxembourg",
-		"malta": "Malta",
-		"netherlands": "Netherlands",
-		"poland": "Poland",
-		"portugal": "Portugal",
-		"romania": "Romania",
-		"slovakia": "Slovakia",
-		"slovenia": "Slovenia",
-		"spain": "Spain",
-		"sweden": "Sweden",
-		"united_kingdom": "United Kingdom"
-	},
-	"topic": {
-		"speed_limits": "Speed limits",
-		"seat_belts": "Seat belts",
-		"traffic_lights": "Traffic lights",
-		"alcohol_limits": "Alcohol limits",
-		"influence_of_drugs": "Influence of drugs",
-		"forbidden_lane": "Forbidden lane",
-		"safety_helmet": "Safety helmet",
-		"mobile_telephone": "Mobile telephone",
-		"other_specific_rules": "Other specific rules"
-	},
+    "game": {
+        "pause": "Pause",
+        "resume": "Resume",
+        "easy": "Easy",
+        "medium": "Medium",
+        "hard": "Hard",
+        "play": "Play",
+        "your_score": "Your Score",
+        "high_score": "High Score",
+        "time": "Time",
+        "start": "Start",
+        "you_win": "You win!",
+        "you_lose": "You lose!",
+        "secondes": "sec.",
+        "player": "Player",
+        "solo": "Solo",
+        "multiplayer": "Multiplayer",
+        "play_2": "Play!"
+    },
+    "games": {
+        "travel_games": "Travel Games",
+        "quiz": "Quiz",
+        "memory": "Memory"
+    },
     "home": {
         "highway_codes_by_country": "Highway Codes by Country",
         "travel_games": "Travel Games"
     },
-    "infos": {
+    "info": {
         "by_country": "By country",
         "country": "Country",
         "topic": "Topic",
         "by_topic": "By topic"
     },
+    "memory": {
+        "memory": "Memory",
+        "description": "No brain, no gain! The memory game is a fun game in which you\u2019ll have to find pairs of identical pictures. If one correct pair is found, images will remain visible. If the two pictures you\u2019ve selected don\u2019t match, they\u2019ll turn back after a few seconds. Find all correct pairs as fast as possible!"
+    },
+    "quiz": {
+        "quiz": "Quiz",
+        "description": "Who\u2019s the ultimate European driver? First choose your game mode. Solo: play on your own. Multiplayer: play with your buddies. All questions are related to the 27 European countries\u2019 Highway codes. Each question has three different answers. Pick up the right one as fast as possible by clicking on it. You\u2019ll be automatically directed to the next question. May the best driver win! Good luck!",
+        "result": {
+            "first": "1st",
+            "second": "2nd",
+            "third": "3rd",
+            "fourth": "4th",
+            "fifth": "5th",
+            "sixth": "6th"
+        },
+        "good_answers": "Good answers:",
+        "good_answers_2": "Good answers"
+    },
     "settings": {
         "language": "Language",
+        "going_abroad": {
+            "title": "Going abroad",
+            "description": "The \u201CGoing abroad\u201D campaign is brought to you by the European Commission, as part of the \u201CRoad Safety\u201D campaign."
+        },
+        "learn_more": "Learn more about the campaign",
         "disclaimer": {
-            "title": "Disclaimer",
-            "description_1": "Going Abroad, European higway code",
-            "description_2": "ide omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.",
-            "caution": "The content available on this application is not refreshed daily. For the latest content please refer to :"
+            "caution": "the content available on this application is not refreshed daily. For the latest content please refer to :"
         }
+    },
+    "strggins": {
+        "disclaimer": {
+            "title": "Disclaimer:"
+        }
+    },
+    "country": {
+        "austria": "Austria",
+        "belgium": "Belgium",
+        "bulgaria": "Bulgaria",
+        "cyprus": "Cyprus",
+        "czech_republic": "Czech Republic",
+        "denmark": "Denmark",
+        "estonia": "Estonia",
+        "finland": "Finland",
+        "france": "France",
+        "germany": "Germany",
+        "greece": "Greece",
+        "hungary": "Hungary",
+        "ireland": "Ireland",
+        "italy": "Italy",
+        "latvia": "Latvia",
+        "lithuania": "Lithuania",
+        "luxembourg": "Luxembourg",
+        "malta": "Malta",
+        "netherlands": "Netherlands",
+        "poland": "Poland",
+        "portugal": "Portugal",
+        "romania": "Romania",
+        "slovakia": "Slovakia",
+        "slovenia": "Slovenia",
+        "spain": "Spain",
+        "sweden": "Sweden",
+        "united_kingdom": "United Kingdom"
+    },
+    "topic": {
+        "speed_limits": "Speed limits",
+        "seat_belts": "Seat belts",
+        "traffic_lights": "Traffic lights",
+        "alcohol_limits": "Alcohol limits",
+        "influence_of_drugs": "Influence of drugs",
+        "forbidden_lane": "Forbidden lane",
+        "safety_helmet": "Safety helmet",
+        "mobile_telephone": "Mobile telephone",
+        "other_specific_rules": "Other specific rules"
     }
 }
