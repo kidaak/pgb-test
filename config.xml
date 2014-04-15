@@ -59,6 +59,7 @@
     
     <access origin="*" subdomains="true" />
 
+    <gap:plugin name="org.apache.cordova.device" version="0.2.8" />
     <gap:plugin name="org.apache.cordova.globalization" version="0.2.6" />
     <gap:plugin name="org.apache.cordova.splashscreen" version="0.2.7" />
     <gap:plugin name="org.apache.cordova.inappbrowser" version="0.3.3" />
