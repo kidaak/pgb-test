@@ -1,0 +1,30 @@
+<div id="question" class="content">
+	<a href="#" class="back-to-home"><span class="icons"></span></a>
+	
+	<div id="progress">
+		<div id="progress-bar"></div>
+		<div id="car-progress">
+			<div id="car" class="icons"></div>
+		</div>
+		<button class="pause"><span class="icons"></span></button>
+		<div class="question-number">
+			<span class="number-1">1</span> <span class="separator"></span> <span class="number-2">15</span>
+		</div>
+	</div><!-- end #progress -->
+
+	<div id="question-zone">
+		<h5 class="player-bar"><b class="icons"></b><i class="player-name">Julie</i></h5>
+		<img src="img/retina/quizz/img-1.jpg" class="question-image">
+		<p class="question-text">Is this vehicle allowed on highways?</p>
+	</div><!-- end #question-zone -->
+
+	<div id="answers-zone">
+		<ul>
+			<li data-answer="1"><div><strong>A</strong><span class="answer-text">Yes</span></div></li>
+			<li data-answer="2"><div><strong>B</strong><span class="answer-text">Yes, but only on Sundays</span></div></li>
+			<li data-answer="3"><div><strong>C</strong><span class="answer-text">Only if its weight does not exceed 5t</span></div></li>
+		</ul>
+	</div><!-- end #answers-zone -->
+	
+	{{> gamePartial}}
+</div><!-- end #question -->

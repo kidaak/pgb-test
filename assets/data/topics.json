@@ -1,0 +1,38 @@
+[
+  {
+    "topic_id": "speed_limits",
+    "string_id": "speed_limits"
+  },
+  {
+    "topic_id": "seat_belts",
+    "string_id": "seat_belts"
+  },
+  {
+    "topic_id": "traffic_lights",
+    "string_id": "traffic_lights"
+  },
+  {
+    "topic_id": "alcohol_limits",
+    "string_id": "alcohol_limits"
+  },
+  {
+    "topic_id": "influence_of_drugs",
+    "string_id": "influence_of_drugs"
+  },
+  {
+    "topic_id": "forbidden_lane",
+    "string_id": "forbidden_lane"
+  },
+  {
+    "topic_id": "safety_helmet",
+    "string_id": "safety_helmet"
+  },
+  {
+    "topic_id": "mobile_telephone",
+    "string_id": "mobile_telephone"
+  },
+  {
+    "topic_id": "other",
+    "string_id": "other_specific_rules"
+  }
+]
