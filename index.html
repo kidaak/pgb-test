@@ -21,7 +21,7 @@
         <div id="disable-interaction"></div>
     </div><!-- end #app -->
     
-    <script type="text/javascript" src="cordova.js"></script>
+    <script src="phonegap.js"></script>
     <!-- to prepend later -->
     <script src="js/vendor/jquery-1.11.0.min.js"></script>
     <script src="js/vendor/underscore-min.js"></script>
@@ -36,35 +36,31 @@
     <script src="js/main.min.js"></script>
     <script>
         //app.initialize();
-        
         document.addEventListener("deviceready", onDeviceReady, false);
-
         function onDeviceReady() {
-            window.phonegap_ready = true;
             app.onDeviceReady();
         }
 
         /* MS Fix */
-        // if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
-        //     $('#app').addClass('ie-mobile');
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            $('#app').addClass('ie-mobile');
 
-        //     var msViewportStyle = document.createElement("style");
+            var msViewportStyle = document.createElement("style");
 
-        //     msViewportStyle.appendChild(
-        //         document.createTextNode(
-        //             "@-ms-viewport{width:auto!important}"
-        //         )
-        //     );
+            msViewportStyle.appendChild(
+                document.createTextNode(
+                    "@-ms-viewport{width:auto!important}"
+                )
+            );
 
-        //     msViewportStyle.appendChild(
-        //         document.createTextNode(
-        //             "@-ms-viewport{height:device-height!important}"
-        //         )
-        //     );
+            msViewportStyle.appendChild(
+                document.createTextNode(
+                    "@-ms-viewport{height:device-height!important}"
+                )
+            );
 
-        //     document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
-        // }
-        
+            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+        }
     </script>
 </body>
 </html>
