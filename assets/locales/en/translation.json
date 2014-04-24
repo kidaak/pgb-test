@@ -1,6 +1,5 @@
 {
     "game": {
-        "pause": "Pause",
         "resume": "Resume",
         "easy": "Easy",
         "medium": "Medium",
@@ -9,11 +8,15 @@
         "your_score": "Your Score",
         "high_score": "High Score",
         "time": "Time",
+        "one": "1",
+        "two": "2",
+        "three": "3",
         "start": "Start",
         "you_win": "You win!",
         "you_lose": "You lose!",
         "secondes": "sec.",
         "player": "Player",
+        "pause": "Pause",
         "solo": "Solo",
         "multiplayer": "Multiplayer",
         "play_2": "Play!"
@@ -53,19 +56,14 @@
     },
     "settings": {
         "language": "Language",
+        "disclaimer": {
+            "title": "Disclaimer",
+            "caution": "The content available on this application is not refreshed daily. For the latest content please refer to:"
+        },
         "going_abroad": {
-            "title": "Going abroad",
             "description": "The \u201CGoing abroad\u201D campaign is brought to you by the European Commission, as part of the \u201CRoad Safety\u201D campaign."
         },
-        "learn_more": "Learn more about the campaign",
-        "disclaimer": {
-            "caution": "the content available on this application is not refreshed daily. For the latest content please refer to :"
-        }
-    },
-    "strggins": {
-        "disclaimer": {
-            "title": "Disclaimer:"
-        }
+        "learn_more": "Learn more about the campaign"
     },
     "country": {
         "austria": "Austria",
