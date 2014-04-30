@@ -7,7 +7,7 @@
     
     <gap:platform name="ios" />
     <gap:platform name="android" />
-    <!--<gap:platform name="winphone" />-->
+    <gap:platform name="winphone" />
 
     <feature name="http://api.phonegap.com/1.0/device" />
     

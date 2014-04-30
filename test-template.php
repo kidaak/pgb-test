@@ -1,3 +1,16 @@
+<?php
+if(!isset($_GET["page"])) {
+    $list = glob('tpl/*.html');
+    foreach ($list as $key => $value) {
+        echo '<a href="?page='.$value.'">'.$value.'</a><br/>';
+    }
+    $list = glob('tpl/*/*.html');
+    foreach ($list as $key => $value) {
+        echo '<a href="?page='.$value.'">'.$value.'</a><br/>';
+    }
+    exit();
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +31,7 @@
 
 <body class="no-transition">
     <div id="app">
-        <div id="disable-interaction"></div>
+        <?php $file = $_GET['page']; include($file); ?>
     </div><!-- end #app -->
     
     <script src="phonegap.js"></script>
@@ -32,7 +45,7 @@
     <script src="js/vendor/fastclick.js"></script>
     <script src="js/vendor/gsap/TweenLite.min.js"></script>
     <script src="js/vendor/gsap/CSSPlugin.min.js"></script>
-
+<!--
     <script src="js/main.min.js"></script>
     <script>
         //app.initialize();
@@ -61,6 +74,6 @@
 
             document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
         }
-    </script>
+    </script>-->
 </body>
 </html>
