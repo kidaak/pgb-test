@@ -1,21 +1,19 @@
 <div id="memory" class="content">
 	<a href="#" class="back-to-home"><span class="icons"></span></a>
-	<!-- add animate-1 to anim-->
-    <div id="progress" class="animate-1">
-        <div id="progress-bar"></div>
-        <div id="car-progress">
-            <div id="car" class="icons"></div>
-        </div>
-        <button class="pause"><span class="icons"></span></button>
-    </div>
+	
+	<div id="progress" class="animate-1">
+		<div id="progress-bar"></div>
+		<div id="car-progress">
+			<div id="car" class="icons"></div>
+		</div>
+		<button class="pause"><span class="icons"></span></button>
+	</div>
 
-	<div class="top">
-        <div class="visual">
-    		<div class="cards-icon icons page-icon"></div>
+	<div class="scrollable">
+		<div class="cards-icon icons page-icon animate-1"></div>
+
+		<div class="text page-text animate-1">
 			<h5 data-i18n="memory.title">Memory</h5>
-        </div>
-
-        <div class="text">
 			<p>
 			<span data-i18n="memory.description_1">No brain, no gain!</span><br>
 			<span data-i18n="memory.description_2">The memory game is a fun game in which you’ll have to find pairs of identical pictures.</span><br>
@@ -26,7 +24,7 @@
 		</div><!-- end .text -->
 	</div>
 	
-	<div class="page-controls">
+	<div class="page-controls animate-1">
 		<ul class="levels">
 			<li data-level="6">
 				<div class="choice">
@@ -48,7 +46,7 @@
 			</li>
 		</ul>
 		
-		<a href="#" id="play"><span class="page-play-txt" data-i18n="game.play">Play</span></a></li>
+		<a href="#" id="play"><span class="page-play-txt animate-1" data-i18n="game.play">Play</span></a></li>
 	</div><!-- end .controls -->
 
 	<div id="cards" data-cards-number="12">
@@ -56,24 +54,24 @@
 
 		<!-- Game overlay used for counter and won text -->
 		<div id="game-overlay">
-			<span id="info" class="">3</span>
+			<span id="info" class="animate-1">3</span>
 		</div>
 	</div><!-- end #cards -->
 
 	<div id="final-scores">
 		<div id="scores">
-			<div class="" id="your-score">
-				<h4 class="" data-i18n="game.your_score">Your Score</h4>
+			<div class="animate-1" id="your-score">
+				<h4 class="animate-1" data-i18n="game.your_score">Your Score</h4>
 				<p class="number your-final-score">0</p>
 			</div><!-- end #your-score -->
 
-			<div class="" id="high-score">
-				<h4 class="" data-i18n="game.high_score">High Score</h4>
+			<div class="animate-1" id="high-score">
+				<h4 class="animate-1" data-i18n="game.high_score">High Score</h4>
 				<p class="number">2 520</p>
 			</div><!-- end #high-score -->
 
-			<div class="" id="time">
-				<h4 class="" data-i18n="game.time">Time</h4>
+			<div class="animate-1" id="time">
+				<h4 class="animate-1" data-i18n="game.time">Time</h4>
 				<p class="number">1 mn 05 sec.</p>
 			</div><!-- end #time -->
 		</div><!-- end #scores -->
