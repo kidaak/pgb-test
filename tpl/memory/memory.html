@@ -1,19 +1,21 @@
 <div id="memory" class="content">
 	<a href="#" class="back-to-home"><span class="icons"></span></a>
-	
-	<div id="progress" class="animate-1">
-		<div id="progress-bar"></div>
-		<div id="car-progress">
-			<div id="car" class="icons"></div>
-		</div>
-		<button class="pause"><span class="icons"></span></button>
-	</div>
+	<!-- add animate-1 to anim-->
+    <div id="progress" class="animate-1">
+        <div id="progress-bar"></div>
+        <div id="car-progress">
+            <div id="car" class="icons"></div>
+        </div>
+        <button class="pause"><span class="icons"></span></button>
+    </div>
 
-	<div class="scrollable">
-		<div class="cards-icon icons page-icon animate-1"></div>
-
-		<div class="text page-text animate-1">
+	<div class="top">
+        <div class="visual page-icon animate-1">
+    		<div class="cards-icon icons"></div>
 			<h5 data-i18n="memory.title">Memory</h5>
+        </div>
+
+        <div class="text page-text animate-1">
 			<p>
 			<span data-i18n="memory.description_1">No brain, no gain!</span><br>
 			<span data-i18n="memory.description_2">The memory game is a fun game in which you’ll have to find pairs of identical pictures.</span><br>
@@ -28,20 +30,26 @@
 		<ul class="levels">
 			<li data-level="6">
 				<div class="choice">
-					<div class="level icons"></div>
-					<span data-i18n="game.easy">Easy</span>
+                    <div class="checkb">
+    					<div class="level icons"></div>
+    					<span data-i18n="game.easy">Easy</span>
+                    </div>
 				</div>
 			</li>
 			<li data-level="12" class="active">
 				<div class="choice">
-					<div class="level icons"></div>
-					<span data-i18n="game.medium">Medium</span>
+                    <div class="checkb">
+    					<div class="level icons"></div>
+    					<span data-i18n="game.medium">Medium</span>
+                    </div>
 				</div>
 			</li>
 			<li data-level="24">
 				<div class="choice">
-					<div class="level icons"></div>
-					<span data-i18n="game.hard">Hard</span>
+                    <div class="checkb">
+    					<div class="level icons"></div>
+    					<span data-i18n="game.hard">Hard</span>
+                    </div>
 				</div>
 			</li>
 		</ul>
