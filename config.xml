@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="be.reeed.roadsafety" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="be.reed.roadsafety" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
 
-    <name>RoadSafety</name>
-    <description>Road Safety App</description>
+    <name>GoingAbroad</name>
+    <description>Going Abroad App</description>
     <author email="contact@reed.be" href="http://www.reed.be">Reed Team</author>
     
     <gap:platform name="ios" />
     <gap:platform name="android" />
-    <gap:platform name="winphone" />
+    <!--<gap:platform name="winphone" />-->
 
     <feature name="http://api.phonegap.com/1.0/device" />
     
@@ -30,8 +30,6 @@
     <preference name="android-installLocation" value="auto" />
 
     <preference name="StatusBarOverlaysWebView" value="false" />
-    
-    <icon src="icon.png" />
     
     <icon gap:platform="android" gap:density="ldpi"  src="res/icon/android/icon-36-ldpi.png" />
     <icon gap:platform="android" gap:density="mdpi"  src="res/icon/android/icon-48-mdpi.png" />
@@ -60,8 +58,6 @@
     <gap:splash gap:platform="ios" width="640" height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" />
     <gap:splash gap:platform="ios" width="768"  height="1004" src="res/screen/ios/screen-ipad-portrait.png"/>
     <gap:splash gap:platform="ios" width="1536" height="2008" src="res/screen/ios/screen-ipad-portrait-2x.png" />
-    
-    <gap:splash gap:platform="winphone" src="res/screen/windows-phone/screen-portrait.jpg" />
     
     <access origin="*" subdomains="true" />
 
