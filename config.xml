@@ -52,9 +52,8 @@
     <gap:splash gap:density="xhdpi" gap:platform="android" src="res/screen/android/screen-xhdpi-portrait.png" />
     
     <gap:splash gap:platform="ios" width="320" height="480"  src="res/screen/ios/screen-iphone-portrait.png" />
-    <gap:splash gap:platform="ios" height="1136" width="640" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" />
-    <gap:splash gap:platform="ios" height="960"  width="640" src="res/screen/ios/screen-iphone-portrait-2x.png" />
-    
+    <gap:splash gap:platform="ios" width="640" height="960"  src="res/screen/ios/screen-iphone-portrait-2x.png" />
+    <gap:splash gap:platform="ios" width="640" height="1136" src="res/screen/ios/screen-iphone-portrait-568h-2x.png" />
     <gap:splash gap:platform="ios" width="768"  height="1004" src="res/screen/ios/screen-ipad-portrait.png"/>
     <gap:splash gap:platform="ios" width="1536" height="2008" src="res/screen/ios/screen-ipad-portrait-2x.png" />
     
