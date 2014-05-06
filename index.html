@@ -36,10 +36,15 @@
 
     <script src="js/main.min.js"></script>
     <script>
-        //app.initialize();
         document.addEventListener("deviceready", onDeviceReady, false);
         function onDeviceReady() {
             app.onDeviceReady();
+        }
+
+        document.addEventListener("backbutton", onBackKeyDown, false);
+        function onBackKeyDown() {
+            // Handle the back button
+            alert('Back button down');
         }
 
         /* MS Fix */
