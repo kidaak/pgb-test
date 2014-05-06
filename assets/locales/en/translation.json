@@ -25,10 +25,10 @@
     "games": {
         "travel_games": "Travel Games",
         "quiz": "Quiz",
-        "memory": "Memory"
+        "memory": "Memory Game"
     },
     "home": {
-        "highway_codes_by_country": "Highway Codes by Country",
+        "road_safety_rules": "Road Safety Rules by Country",
         "travel_games": "Travel Games"
     },
     "info": {
@@ -40,9 +40,9 @@
     "memory": {
         "title": "Memory",
         "description_1": "No brain, no gain!",
-        "description_2": "The memory game is a fun game in which you\u2019ll have to find pairs of identical pictures.",
-        "description_3": "If one correct pair is found, images will remain visible.",
-        "description_4": "If the two pictures you\u2019ve selected don\u2019t match, they\u2019ll turn back after a few seconds.",
+        "description_2": "Find pairs of identical pictures.",
+        "description_3": "If one correct pair is found, the images will remain visible.",
+        "description_4": "If the two pictures you\u2019ve selected don\u2019t match, they\u2019ll flip back after a few seconds.",
         "description_5": "Find all correct pairs as fast as possible!"
     },
     "loading": {
@@ -51,15 +51,12 @@
     "quiz": {
         "quiz": "Quiz",
         "title": "Quiz",
-        "description_1": "Who\u2019s the ultimate European driver?",
-        "description_2": "First choose your game mode.",
-        "description_3": "Solo: play on your own.",
-        "description_4": "Multiplayer: play with your buddies.",
-        "description_5": "All questions are related to the 27 European countries\u2019 Highway codes.",
-        "description_6": "Each question has three different answers.",
-        "description_7": "Pick up the right one as fast as possible by clicking on it.",
-        "description_8": "You\u2019ll be automatically directed to the next question.",
-        "description_9": "May the best driver win! Good luck!",
+        "description_1": "Who is the ultimate European driver?",
+        "description_2": "All questions are related to the 28 European countries\u2019 road safety rules.",
+        "description_3": "Each question has three possible answers.",
+        "description_4": "Click on the correct one as fast as possible.",
+        "description_5": "You\u2019ll be automatically directed to the next question.",
+        "description_6": "May the best driver win! Good luck!",
         "result": {
             "first": "1st",
             "second": "2nd",
@@ -79,9 +76,9 @@
             "caution_2": "The data are meant purely as a documentation tool and the Commission does not assume any liability for their content or their accuracy."
         },
         "going_abroad": {
-            "description": "The \u201CGoing abroad\u201D campaign is brought to you by the European Commission, as part of the \u201CRoad Safety\u201D campaign."
+            "description": "The \u201CGoing abroad\u201D app is brought to you by the European Commission."
         },
-        "learn_more": "Learn more about the campaign"
+        "learn_more": "Learn more about what the EU is doing for better road safety in Europe:"
     },
     "country": {
         "austria": "Austria",
