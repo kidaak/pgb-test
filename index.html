@@ -43,8 +43,9 @@
 
         document.addEventListener("backbutton", onBackKeyDown, false);
         function onBackKeyDown() {
-            // Handle the back button
-            alert('Back button down');
+            if (rs && rs.slider && rs.slider.interactionEnabled()) {
+                 window.history.back();
+            }
         }
 
         /* MS Fix */
